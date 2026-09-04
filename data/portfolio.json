@@ -840,7 +840,22 @@
           "creditsUrl": "/media/music/credits.html"
         }
       ]
-    }
+    },
+    "knowledgeEntries": [
+      {
+        "id": "re4-village",
+        "title": {
+          "zh": "深度拆解《生化危机4》：01 村庄",
+          "en": "Resident Evil 4 Breakdown: 01 Village"
+        },
+        "summary": {
+          "zh": "关卡分析 · 09:18",
+          "en": "Level analysis · 09:18"
+        },
+        "cover": "/media/knowledge/re4-village.webp",
+        "url": "https://www.bilibili.com/video/BV1S6JDzdEi5/"
+      }
+    ]
   },
   "profile": {
     "name": "王昊天",
