@@ -1,0 +1,1167 @@
+{
+  "projects": [
+    {
+      "slug": "shenzhen-construction-industry-ecological-intelligent-valley",
+      "year": "2023—2024",
+      "title": {
+        "zh": "深圳建筑产业生态智谷总部基地",
+        "en": "Shenzhen Construction Industry Ecological & Intelligent Valley Headquarters"
+      },
+      "role": {
+        "zh": "联合体设计项目 · 个人职责待补充",
+        "en": "Consortium design project · Individual role to be added"
+      },
+      "summary": {
+        "zh": "Aedas、深圳市华阳国际与 MLA+B.V. 联合设计的建筑产业园区，以智能、生态与近零碳为目标，将总部办公、研发、宿舍、食堂与展示空间组织进绿意环抱的园区。项目于 2023 年底中标后进入深化与实施阶段。",
+        "en": "A joint design by Aedas, Shenzhen Capol International & Associates, and MLA+B.V. for an intelligent, ecological, near-zero-carbon industry campus. Headquarters offices, R&D, residences, dining, and exhibition spaces are gathered into a landscape-rich setting that entered detailed development after its late-2023 competition win."
+      },
+      "tools": [
+        "Architecture",
+        "Urban Design",
+        "Landscape Integration"
+      ],
+      "pointCloud": {
+        "enabled": true,
+        "manifestUrl": "/media/architecture/point-clouds/tower-study-20260813/manifest.json"
+      },
+      "category": "architecture",
+      "status": "ready",
+      "cover": "/media/architecture/%E6%B7%B1%E5%9C%B3%E5%BB%BA%E7%AD%91%E4%BA%A7%E4%B8%9A%E7%94%9F%E6%80%81%E6%99%BA%E8%B0%B7%E6%80%BB%E9%83%A8%E5%9F%BA%E5%9C%B0/03_Heroshot.jpg",
+      "gallery": [
+        "/media/architecture/%E6%B7%B1%E5%9C%B3%E5%BB%BA%E7%AD%91%E4%BA%A7%E4%B8%9A%E7%94%9F%E6%80%81%E6%99%BA%E8%B0%B7%E6%80%BB%E9%83%A8%E5%9F%BA%E5%9C%B0/01_Image/011_Renders/01-A2-03b_A3-a2.jpg",
+        "/media/architecture/%E6%B7%B1%E5%9C%B3%E5%BB%BA%E7%AD%91%E4%BA%A7%E4%B8%9A%E7%94%9F%E6%80%81%E6%99%BA%E8%B0%B7%E6%80%BB%E9%83%A8%E5%9F%BA%E5%9C%B0/01_Image/011_Renders/02-A1-kh2_a3-a1.jpg",
+        "/media/architecture/%E6%B7%B1%E5%9C%B3%E5%BB%BA%E7%AD%91%E4%BA%A7%E4%B8%9A%E7%94%9F%E6%80%81%E6%99%BA%E8%B0%B7%E6%80%BB%E9%83%A8%E5%9F%BA%E5%9C%B0/01_Image/011_Renders/03-A04-kh3_a3-a1.jpg",
+        "/media/architecture/%E6%B7%B1%E5%9C%B3%E5%BB%BA%E7%AD%91%E4%BA%A7%E4%B8%9A%E7%94%9F%E6%80%81%E6%99%BA%E8%B0%B7%E6%80%BB%E9%83%A8%E5%9F%BA%E5%9C%B0/01_Image/011_Renders/04-A03-kh2_a3-a1.jpg",
+        "/media/architecture/%E6%B7%B1%E5%9C%B3%E5%BB%BA%E7%AD%91%E4%BA%A7%E4%B8%9A%E7%94%9F%E6%80%81%E6%99%BA%E8%B0%B7%E6%80%BB%E9%83%A8%E5%9F%BA%E5%9C%B0/01_Image/011_Renders/05-A4-02b_a3-a1.jpg",
+        "/media/architecture/%E6%B7%B1%E5%9C%B3%E5%BB%BA%E7%AD%91%E4%BA%A7%E4%B8%9A%E7%94%9F%E6%80%81%E6%99%BA%E8%B0%B7%E6%80%BB%E9%83%A8%E5%9F%BA%E5%9C%B0/01_Image/011_Renders/06-20230915%203%23-a2_A3-a.jpg",
+        "/media/architecture/%E6%B7%B1%E5%9C%B3%E5%BB%BA%E7%AD%91%E4%BA%A7%E4%B8%9A%E7%94%9F%E6%80%81%E6%99%BA%E8%B0%B7%E6%80%BB%E9%83%A8%E5%9F%BA%E5%9C%B0/01_Image/011_Renders/07-B5-a2_A3-a1.jpg",
+        "/media/architecture/%E6%B7%B1%E5%9C%B3%E5%BB%BA%E7%AD%91%E4%BA%A7%E4%B8%9A%E7%94%9F%E6%80%81%E6%99%BA%E8%B0%B7%E6%80%BB%E9%83%A8%E5%9F%BA%E5%9C%B0/01_Image/011_Renders/08-20231030182650_a3-a1.jpg",
+        "/media/architecture/%E6%B7%B1%E5%9C%B3%E5%BB%BA%E7%AD%91%E4%BA%A7%E4%B8%9A%E7%94%9F%E6%80%81%E6%99%BA%E8%B0%B7%E6%80%BB%E9%83%A8%E5%9F%BA%E5%9C%B0/01_Image/011_Renders/9-20231110144148_a3-a1.jpg",
+        "/media/architecture/%E6%B7%B1%E5%9C%B3%E5%BB%BA%E7%AD%91%E4%BA%A7%E4%B8%9A%E7%94%9F%E6%80%81%E6%99%BA%E8%B0%B7%E6%80%BB%E9%83%A8%E5%9F%BA%E5%9C%B0/01_Image/012_Drawings/20240724%20MLP-Base%E7%B2%BE%E7%AE%80.jpg"
+      ]
+    },
+    {
+      "slug": "nansha-futures-financial-big-data-industrial-park",
+      "year": "2023—2024",
+      "title": {
+        "zh": "南沙期货金融大数据产业园",
+        "en": "Nansha Futures Financial Big Data Industrial Park"
+      },
+      "role": {
+        "zh": "专业建筑项目 · 个人职责待补充",
+        "en": "Professional architecture project · Individual role to be added"
+      },
+      "summary": {
+        "zh": "项目位于广州南沙明珠湾横沥岛尖，以“岭南指韵，山水长卷”为意向，将东方山水美学转译为起伏有致的滨水城市空间。建筑群回应金融岛天际线，并以现代岭南场域连接城市活力与自然气息。",
+        "en": "Located at the tip of Hengli Island in Guangzhou’s Nansha Pearl Bay, the project translates an Eastern landscape composition into a layered waterfront district. Its skyline and public realm bring the energy of a financial island together with a contemporary Lingnan sense of place."
+      },
+      "tools": [
+        "Architecture",
+        "Urban Design",
+        "Commercial Workplace"
+      ],
+      "pointCloud": {
+        "enabled": true,
+        "manifestUrl": "/media/architecture/point-clouds/nansha-futures-financial-big-data-industrial-park/manifest.json"
+      },
+      "category": "architecture",
+      "status": "ready",
+      "cover": "/media/architecture/%E5%8D%97%E6%B2%99%E6%9C%9F%E8%B4%A7%E9%87%91%E8%9E%8D%E5%A4%A7%E6%95%B0%E6%8D%AE%E4%BA%A7%E4%B8%9A%E5%9B%AD/03_Heroshot.jpg",
+      "gallery": [
+        "/media/architecture/%E5%8D%97%E6%B2%99%E6%9C%9F%E8%B4%A7%E9%87%91%E8%9E%8D%E5%A4%A7%E6%95%B0%E6%8D%AE%E4%BA%A7%E4%B8%9A%E5%9B%AD/01_Image/011_Renders/2%E5%8F%B7%E6%A5%BC-KH.jpg",
+        "/media/architecture/%E5%8D%97%E6%B2%99%E6%9C%9F%E8%B4%A7%E9%87%91%E8%9E%8D%E5%A4%A7%E6%95%B0%E6%8D%AE%E4%BA%A7%E4%B8%9A%E5%9B%AD/01_Image/011_Renders/Dan%20Lab%20%E4%B8%AD%E5%BA%AD%E4%BA%BA%E8%A7%86_1.jpg",
+        "/media/architecture/%E5%8D%97%E6%B2%99%E6%9C%9F%E8%B4%A7%E9%87%91%E8%9E%8D%E5%A4%A7%E6%95%B0%E6%8D%AE%E4%BA%A7%E4%B8%9A%E5%9B%AD/01_Image/011_Renders/WeChat%20Image_20230524170200.jpg",
+        "/media/architecture/%E5%8D%97%E6%B2%99%E6%9C%9F%E8%B4%A7%E9%87%91%E8%9E%8D%E5%A4%A7%E6%95%B0%E6%8D%AE%E4%BA%A7%E4%B8%9A%E5%9B%AD/01_Image/011_Renders/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20231018122153_1.jpg",
+        "/media/architecture/%E5%8D%97%E6%B2%99%E6%9C%9F%E8%B4%A7%E9%87%91%E8%9E%8D%E5%A4%A7%E6%95%B0%E6%8D%AE%E4%BA%A7%E4%B8%9A%E5%9B%AD/01_Image/011_Renders/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20231018144848%20%E6%9B%B4%E6%96%B02.jpg",
+        "/media/architecture/%E5%8D%97%E6%B2%99%E6%9C%9F%E8%B4%A7%E9%87%91%E8%9E%8D%E5%A4%A7%E6%95%B0%E6%8D%AE%E4%BA%A7%E4%B8%9A%E5%9B%AD/01_Image/011_Renders/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20240812133614.jpg",
+        "/media/architecture/%E5%8D%97%E6%B2%99%E6%9C%9F%E8%B4%A7%E9%87%91%E8%9E%8D%E5%A4%A7%E6%95%B0%E6%8D%AE%E4%BA%A7%E4%B8%9A%E5%9B%AD/01_Image/011_Renders/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20240812161536.jpg",
+        "/media/architecture/%E5%8D%97%E6%B2%99%E6%9C%9F%E8%B4%A7%E9%87%91%E8%9E%8D%E5%A4%A7%E6%95%B0%E6%8D%AE%E4%BA%A7%E4%B8%9A%E5%9B%AD/01_Image/011_Renders/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20240812161547_1.jpg",
+        "/media/architecture/%E5%8D%97%E6%B2%99%E6%9C%9F%E8%B4%A7%E9%87%91%E8%9E%8D%E5%A4%A7%E6%95%B0%E6%8D%AE%E4%BA%A7%E4%B8%9A%E5%9B%AD/01_Image/011_Renders/%E9%B8%9F%E7%9E%B01.jpg",
+        "/media/architecture/%E5%8D%97%E6%B2%99%E6%9C%9F%E8%B4%A7%E9%87%91%E8%9E%8D%E5%A4%A7%E6%95%B0%E6%8D%AE%E4%BA%A7%E4%B8%9A%E5%9B%AD/01_Image/011_Renders/%E9%B8%9F%E7%9E%B02.jpg",
+        "/media/architecture/%E5%8D%97%E6%B2%99%E6%9C%9F%E8%B4%A7%E9%87%91%E8%9E%8D%E5%A4%A7%E6%95%B0%E6%8D%AE%E4%BA%A7%E4%B8%9A%E5%9B%AD/01_Image/012_Drawings/20241126_MLP.jpg",
+        "/media/architecture/%E5%8D%97%E6%B2%99%E6%9C%9F%E8%B4%A7%E9%87%91%E8%9E%8D%E5%A4%A7%E6%95%B0%E6%8D%AE%E4%BA%A7%E4%B8%9A%E5%9B%AD/01_Image/012_Drawings/20241204_1.jpg"
+      ]
+    },
+    {
+      "slug": "guangzhou-hengli-island-mixed-use-complex",
+      "year": "2021—2024",
+      "title": {
+        "zh": "广州横沥岛商业居住综合体",
+        "en": "Guangzhou Hengli Island Mixed-use Complex"
+      },
+      "role": {
+        "zh": "专业建筑项目 · 个人职责待补充",
+        "en": "Professional architecture project · Individual role to be added"
+      },
+      "summary": {
+        "zh": "横沥岛 2021NJY-12 地块以“岛尖门户、水岸绿洲、岭南烟火、国际视野”为核心，将商业办公与住宅嵌入自然景观，形成面向明珠湾的绿色综合体与城市门户。",
+        "en": "The 2021NJY-12 plot on Hengli Island combines commercial, workplace, and residential uses in a landscape-led complex. Conceived as an island gateway and waterfront oasis, it brings Lingnan urban life into an outward-looking benchmark for Pearl Bay."
+      },
+      "pointCloud": {
+        "enabled": true,
+        "manifestUrl": "/media/architecture/point-clouds/guangzhou-hengli-island-mixed-use-complex/manifest.json"
+      },
+      "tools": [
+        "Architecture",
+        "Mixed-use",
+        "Residential"
+      ],
+      "category": "architecture",
+      "status": "ready",
+      "cover": "/media/architecture/%E5%B9%BF%E5%B7%9E%E6%A8%AA%E6%B2%A5%E5%B2%9B%E5%95%86%E4%B8%9A%E5%B1%85%E4%BD%8F%E7%BB%BC%E5%90%88%E4%BD%93/03_Heroshot.jpg",
+      "gallery": [
+        "/media/architecture/%E5%B9%BF%E5%B7%9E%E6%A8%AA%E6%B2%A5%E5%B2%9B%E5%95%86%E4%B8%9A%E5%B1%85%E4%BD%8F%E7%BB%BC%E5%90%88%E4%BD%93/01_Image/011_Renders/0.jpg",
+        "/media/architecture/%E5%B9%BF%E5%B7%9E%E6%A8%AA%E6%B2%A5%E5%B2%9B%E5%95%86%E4%B8%9A%E5%B1%85%E4%BD%8F%E7%BB%BC%E5%90%88%E4%BD%93/01_Image/011_Renders/1.jpg",
+        "/media/architecture/%E5%B9%BF%E5%B7%9E%E6%A8%AA%E6%B2%A5%E5%B2%9B%E5%95%86%E4%B8%9A%E5%B1%85%E4%BD%8F%E7%BB%BC%E5%90%88%E4%BD%93/01_Image/011_Renders/1.png",
+        "/media/architecture/%E5%B9%BF%E5%B7%9E%E6%A8%AA%E6%B2%A5%E5%B2%9B%E5%95%86%E4%B8%9A%E5%B1%85%E4%BD%8F%E7%BB%BC%E5%90%88%E4%BD%93/01_Image/011_Renders/2.jpg",
+        "/media/architecture/%E5%B9%BF%E5%B7%9E%E6%A8%AA%E6%B2%A5%E5%B2%9B%E5%95%86%E4%B8%9A%E5%B1%85%E4%BD%8F%E7%BB%BC%E5%90%88%E4%BD%93/01_Image/011_Renders/2_1.jpg",
+        "/media/architecture/%E5%B9%BF%E5%B7%9E%E6%A8%AA%E6%B2%A5%E5%B2%9B%E5%95%86%E4%B8%9A%E5%B1%85%E4%BD%8F%E7%BB%BC%E5%90%88%E4%BD%93/01_Image/011_Renders/3.jpg",
+        "/media/architecture/%E5%B9%BF%E5%B7%9E%E6%A8%AA%E6%B2%A5%E5%B2%9B%E5%95%86%E4%B8%9A%E5%B1%85%E4%BD%8F%E7%BB%BC%E5%90%88%E4%BD%93/01_Image/011_Renders/4.jpg",
+        "/media/architecture/%E5%B9%BF%E5%B7%9E%E6%A8%AA%E6%B2%A5%E5%B2%9B%E5%95%86%E4%B8%9A%E5%B1%85%E4%BD%8F%E7%BB%BC%E5%90%88%E4%BD%93/01_Image/011_Renders/5.jpg",
+        "/media/architecture/%E5%B9%BF%E5%B7%9E%E6%A8%AA%E6%B2%A5%E5%B2%9B%E5%95%86%E4%B8%9A%E5%B1%85%E4%BD%8F%E7%BB%BC%E5%90%88%E4%BD%93/01_Image/011_Renders/CX_06.jpg",
+        "/media/architecture/%E5%B9%BF%E5%B7%9E%E6%A8%AA%E6%B2%A5%E5%B2%9B%E5%95%86%E4%B8%9A%E5%B1%85%E4%BD%8F%E7%BB%BC%E5%90%88%E4%BD%93/01_Image/011_Renders/Icon-01.jpg",
+        "/media/architecture/%E5%B9%BF%E5%B7%9E%E6%A8%AA%E6%B2%A5%E5%B2%9B%E5%95%86%E4%B8%9A%E5%B1%85%E4%BD%8F%E7%BB%BC%E5%90%88%E4%BD%93/01_Image/011_Renders/Icon-03.jpg",
+        "/media/architecture/%E5%B9%BF%E5%B7%9E%E6%A8%AA%E6%B2%A5%E5%B2%9B%E5%95%86%E4%B8%9A%E5%B1%85%E4%BD%8F%E7%BB%BC%E5%90%88%E4%BD%93/01_Image/011_Renders/ICON_15.jpg",
+        "/media/architecture/%E5%B9%BF%E5%B7%9E%E6%A8%AA%E6%B2%A5%E5%B2%9B%E5%95%86%E4%B8%9A%E5%B1%85%E4%BD%8F%E7%BB%BC%E5%90%88%E4%BD%93/01_Image/011_Renders/I_2_2.jpg",
+        "/media/architecture/%E5%B9%BF%E5%B7%9E%E6%A8%AA%E6%B2%A5%E5%B2%9B%E5%95%86%E4%B8%9A%E5%B1%85%E4%BD%8F%E7%BB%BC%E5%90%88%E4%BD%93/01_Image/011_Renders/I_3_2.jpg",
+        "/media/architecture/%E5%B9%BF%E5%B7%9E%E6%A8%AA%E6%B2%A5%E5%B2%9B%E5%95%86%E4%B8%9A%E5%B1%85%E4%BD%8F%E7%BB%BC%E5%90%88%E4%BD%93/01_Image/011_Renders/QL_07.jpg",
+        "/media/architecture/%E5%B9%BF%E5%B7%9E%E6%A8%AA%E6%B2%A5%E5%B2%9B%E5%95%86%E4%B8%9A%E5%B1%85%E4%BD%8F%E7%BB%BC%E5%90%88%E4%BD%93/01_Image/012_Drawings/20241126_1F.jpg",
+        "/media/architecture/%E5%B9%BF%E5%B7%9E%E6%A8%AA%E6%B2%A5%E5%B2%9B%E5%95%86%E4%B8%9A%E5%B1%85%E4%BD%8F%E7%BB%BC%E5%90%88%E4%BD%93/01_Image/012_Drawings/20241126_2F.jpg",
+        "/media/architecture/%E5%B9%BF%E5%B7%9E%E6%A8%AA%E6%B2%A5%E5%B2%9B%E5%95%86%E4%B8%9A%E5%B1%85%E4%BD%8F%E7%BB%BC%E5%90%88%E4%BD%93/01_Image/012_Drawings/20241126_3F.jpg",
+        "/media/architecture/%E5%B9%BF%E5%B7%9E%E6%A8%AA%E6%B2%A5%E5%B2%9B%E5%95%86%E4%B8%9A%E5%B1%85%E4%BD%8F%E7%BB%BC%E5%90%88%E4%BD%93/01_Image/012_Drawings/20241126_4F.jpg",
+        "/media/architecture/%E5%B9%BF%E5%B7%9E%E6%A8%AA%E6%B2%A5%E5%B2%9B%E5%95%86%E4%B8%9A%E5%B1%85%E4%BD%8F%E7%BB%BC%E5%90%88%E4%BD%93/01_Image/012_Drawings/20241127_MLP.jpg",
+        "/media/architecture/%E5%B9%BF%E5%B7%9E%E6%A8%AA%E6%B2%A5%E5%B2%9B%E5%95%86%E4%B8%9A%E5%B1%85%E4%BD%8F%E7%BB%BC%E5%90%88%E4%BD%93/01_Image/012_Drawings/E1.jpg"
+      ]
+    },
+    {
+      "slug": "shenzhen-hetau-collaborative-innovation-zone-north",
+      "year": "2025",
+      "title": {
+        "zh": "深圳河套协同创新区北区（四标段）",
+        "en": "Shenzhen Hetao Collaborative Innovation Zone North — Lot 4"
+      },
+      "role": {
+        "zh": "专业建筑项目 · 个人职责待补充",
+        "en": "Professional architecture project · Individual role to be added"
+      },
+      "summary": {
+        "zh": "作为国际协同创新区的配套服务板块，项目整合人才宿舍、文体中心与能源管控中心。设计以邻里社区与立体街区为重点，在 30,171 平方米场地中组织园区生活、交流、运动与公共服务，营造面向科创青年的混合型宜居社区。",
+        "en": "A service district for the International Collaborative Innovation Zone, bringing together talent housing, a cultural and sports centre, and an energy control centre. The 30,171-square-metre site is structured as a vertical neighbourhood that supports daily life, exchange, recreation, and public services for young innovation workers."
+      },
+      "tools": [
+        "Architecture",
+        "Community",
+        "Residential"
+      ],
+      "pointCloud": {
+        "enabled": true,
+        "manifestUrl": "/media/architecture/point-clouds/shenzhen-hetau-collaborative-innovation-zone-north/manifest.json"
+      },
+      "category": "architecture",
+      "status": "ready",
+      "cover": "/media/architecture/%E6%B7%B1%E5%9C%B3%E6%B2%B3%E5%A5%97%E5%8D%8F%E5%90%8C%E5%88%9B%E6%96%B0%E5%8C%BA%E5%8C%97%E5%8C%BA(%E5%9B%9B%E6%A0%87%E6%AE%B5%EF%BC%89/03_Heroshot.jpg",
+      "gallery": [
+        "/media/architecture/%E6%B7%B1%E5%9C%B3%E6%B2%B3%E5%A5%97%E5%8D%8F%E5%90%8C%E5%88%9B%E6%96%B0%E5%8C%BA%E5%8C%97%E5%8C%BA(%E5%9B%9B%E6%A0%87%E6%AE%B5%EF%BC%89/01_Image/011_Renders/01-%E6%B7%B1%E5%9C%B3%E5%87%AF%E8%BE%BE-%E5%9B%BD%E9%99%85%E5%8D%8F%E5%90%8C%E5%88%9B%E6%96%B0%E5%8C%BA-C01.jpg",
+        "/media/architecture/%E6%B7%B1%E5%9C%B3%E6%B2%B3%E5%A5%97%E5%8D%8F%E5%90%8C%E5%88%9B%E6%96%B0%E5%8C%BA%E5%8C%97%E5%8C%BA(%E5%9B%9B%E6%A0%87%E6%AE%B5%EF%BC%89/01_Image/011_Renders/01-%E6%B7%B1%E5%9C%B3%E5%87%AF%E8%BE%BE-%E5%9B%BD%E9%99%85%E5%8D%8F%E5%90%8C%E5%88%9B%E6%96%B0%E5%8C%BA-C02.jpg",
+        "/media/architecture/%E6%B7%B1%E5%9C%B3%E6%B2%B3%E5%A5%97%E5%8D%8F%E5%90%8C%E5%88%9B%E6%96%B0%E5%8C%BA%E5%8C%97%E5%8C%BA(%E5%9B%9B%E6%A0%87%E6%AE%B5%EF%BC%89/01_Image/011_Renders/01-%E6%B7%B1%E5%9C%B3%E5%87%AF%E8%BE%BE-%E5%9B%BD%E9%99%85%E5%8D%8F%E5%90%8C%E5%88%9B%E6%96%B0%E5%8C%BA-C03-1kh%2B.jpg",
+        "/media/architecture/%E6%B7%B1%E5%9C%B3%E6%B2%B3%E5%A5%97%E5%8D%8F%E5%90%8C%E5%88%9B%E6%96%B0%E5%8C%BA%E5%8C%97%E5%8C%BA(%E5%9B%9B%E6%A0%87%E6%AE%B5%EF%BC%89/01_Image/011_Renders/01-%E6%B7%B1%E5%9C%B3%E5%87%AF%E8%BE%BE-%E5%9B%BD%E9%99%85%E5%8D%8F%E5%90%8C%E5%88%9B%E6%96%B0%E5%8C%BA-C04_kh.jpg",
+        "/media/architecture/%E6%B7%B1%E5%9C%B3%E6%B2%B3%E5%A5%97%E5%8D%8F%E5%90%8C%E5%88%9B%E6%96%B0%E5%8C%BA%E5%8C%97%E5%8C%BA(%E5%9B%9B%E6%A0%87%E6%AE%B5%EF%BC%89/01_Image/011_Renders/01-%E6%B7%B1%E5%9C%B3%E5%87%AF%E8%BE%BE-%E5%9B%BD%E9%99%85%E5%8D%8F%E5%90%8C%E5%88%9B%E6%96%B0%E5%8C%BA-C05_kh.jpg",
+        "/media/architecture/%E6%B7%B1%E5%9C%B3%E6%B2%B3%E5%A5%97%E5%8D%8F%E5%90%8C%E5%88%9B%E6%96%B0%E5%8C%BA%E5%8C%97%E5%8C%BA(%E5%9B%9B%E6%A0%87%E6%AE%B5%EF%BC%89/01_Image/011_Renders/C01_kh.jpg",
+        "/media/architecture/%E6%B7%B1%E5%9C%B3%E6%B2%B3%E5%A5%97%E5%8D%8F%E5%90%8C%E5%88%9B%E6%96%B0%E5%8C%BA%E5%8C%97%E5%8C%BA(%E5%9B%9B%E6%A0%87%E6%AE%B5%EF%BC%89/01_Image/011_Renders/c02_kh.jpg",
+        "/media/architecture/%E6%B7%B1%E5%9C%B3%E6%B2%B3%E5%A5%97%E5%8D%8F%E5%90%8C%E5%88%9B%E6%96%B0%E5%8C%BA%E5%8C%97%E5%8C%BA(%E5%9B%9B%E6%A0%87%E6%AE%B5%EF%BC%89/01_Image/011_Renders/c03.jpg",
+        "/media/architecture/%E6%B7%B1%E5%9C%B3%E6%B2%B3%E5%A5%97%E5%8D%8F%E5%90%8C%E5%88%9B%E6%96%B0%E5%8C%BA%E5%8C%97%E5%8C%BA(%E5%9B%9B%E6%A0%87%E6%AE%B5%EF%BC%89/01_Image/011_Renders/c04.jpg",
+        "/media/architecture/%E6%B7%B1%E5%9C%B3%E6%B2%B3%E5%A5%97%E5%8D%8F%E5%90%8C%E5%88%9B%E6%96%B0%E5%8C%BA%E5%8C%97%E5%8C%BA(%E5%9B%9B%E6%A0%87%E6%AE%B5%EF%BC%89/01_Image/011_Renders/c05_kh.jpg",
+        "/media/architecture/%E6%B7%B1%E5%9C%B3%E6%B2%B3%E5%A5%97%E5%8D%8F%E5%90%8C%E5%88%9B%E6%96%B0%E5%8C%BA%E5%8C%97%E5%8C%BA(%E5%9B%9B%E6%A0%87%E6%AE%B5%EF%BC%89/01_Image/011_Renders/Weixin%20Image_20250113113615.jpg"
+      ]
+    },
+    {
+      "slug": "guangzhou-nansha-tangkeng-station-commercial-complex",
+      "year": "2025",
+      "title": {
+        "zh": "广州南沙塘坑站商业综合体",
+        "en": "Guangzhou Nansha Tangkeng Station Commercial Complex"
+      },
+      "role": {
+        "zh": "专业建筑项目 · 个人职责待补充",
+        "en": "Professional architecture project · Individual role to be added"
+      },
+      "summary": {
+        "zh": "设计保留原有街巷尺度、空间关系与重要节点，通过“镶嵌”式新建介入形成新旧对话。文化通廊连接英东大道、环市大道与公祠、天后古庙，并以玻璃、金属、清水混凝土结合青砖、瓦片与蚝壳墙，形成面向未来的“新岭南”语汇。",
+        "en": "The design preserves the scale, relationships, and key nodes of the existing lanes while introducing new buildings as tectonic insertions. Cultural corridors connect the main roads to ancestral landmarks, and contemporary materials are paired with blue brick, tiles, and oyster-shell walls to form a forward-looking New Lingnan language."
+      },
+      "tools": [
+        "Architecture",
+        "Commercial",
+        "Transit-oriented Development"
+      ],
+      "pointCloud": {
+        "enabled": true,
+        "manifestUrl": "/media/architecture/point-clouds/guangzhou-nansha-tangkeng-station-commercial-complex/manifest.json"
+      },
+      "category": "architecture",
+      "status": "ready",
+      "cover": "/media/architecture/%E5%B9%BF%E5%B7%9E%E5%8D%97%E6%B2%99%E5%A1%98%E5%9D%91%E7%AB%99%E5%95%86%E4%B8%9A%E7%BB%BC%E5%90%88%E4%BD%93/03_Heroshot.jpg",
+      "gallery": [
+        "/media/architecture/%E5%B9%BF%E5%B7%9E%E5%8D%97%E6%B2%99%E5%A1%98%E5%9D%91%E7%AB%99%E5%95%86%E4%B8%9A%E7%BB%BC%E5%90%88%E4%BD%93/01_Image/011_Renders/01.jpg",
+        "/media/architecture/%E5%B9%BF%E5%B7%9E%E5%8D%97%E6%B2%99%E5%A1%98%E5%9D%91%E7%AB%99%E5%95%86%E4%B8%9A%E7%BB%BC%E5%90%88%E4%BD%93/01_Image/011_Renders/02.jpg",
+        "/media/architecture/%E5%B9%BF%E5%B7%9E%E5%8D%97%E6%B2%99%E5%A1%98%E5%9D%91%E7%AB%99%E5%95%86%E4%B8%9A%E7%BB%BC%E5%90%88%E4%BD%93/01_Image/011_Renders/03.jpg",
+        "/media/architecture/%E5%B9%BF%E5%B7%9E%E5%8D%97%E6%B2%99%E5%A1%98%E5%9D%91%E7%AB%99%E5%95%86%E4%B8%9A%E7%BB%BC%E5%90%88%E4%BD%93/01_Image/011_Renders/NEW1.jpg",
+        "/media/architecture/%E5%B9%BF%E5%B7%9E%E5%8D%97%E6%B2%99%E5%A1%98%E5%9D%91%E7%AB%99%E5%95%86%E4%B8%9A%E7%BB%BC%E5%90%88%E4%BD%93/01_Image/011_Renders/Weixin%20Image_20250917210724.jpg",
+        "/media/architecture/%E5%B9%BF%E5%B7%9E%E5%8D%97%E6%B2%99%E5%A1%98%E5%9D%91%E7%AB%99%E5%95%86%E4%B8%9A%E7%BB%BC%E5%90%88%E4%BD%93/01_Image/011_Renders/Weixin%20Image_20250917210736.jpg",
+        "/media/architecture/%E5%B9%BF%E5%B7%9E%E5%8D%97%E6%B2%99%E5%A1%98%E5%9D%91%E7%AB%99%E5%95%86%E4%B8%9A%E7%BB%BC%E5%90%88%E4%BD%93/01_Image/011_Renders/%E5%86%85%E8%A1%972_2Text.jpg",
+        "/media/architecture/%E5%B9%BF%E5%B7%9E%E5%8D%97%E6%B2%99%E5%A1%98%E5%9D%91%E7%AB%99%E5%95%86%E4%B8%9A%E7%BB%BC%E5%90%88%E4%BD%93/01_Image/011_Renders/%E5%A4%A7%E9%B8%9F%E7%9E%B02-2Text.jpg",
+        "/media/architecture/%E5%B9%BF%E5%B7%9E%E5%8D%97%E6%B2%99%E5%A1%98%E5%9D%91%E7%AB%99%E5%95%86%E4%B8%9A%E7%BB%BC%E5%90%88%E4%BD%93/01_Image/011_Renders/%E9%92%9F%E6%A5%BC%E5%B9%BF%E5%9C%BA.png",
+        "/media/architecture/%E5%B9%BF%E5%B7%9E%E5%8D%97%E6%B2%99%E5%A1%98%E5%9D%91%E7%AB%99%E5%95%86%E4%B8%9A%E7%BB%BC%E5%90%88%E4%BD%93/01_Image/012_Drawings/FINAL%20%E5%B8%A6%E6%96%87%E5%AD%972.JPG",
+        "/media/architecture/%E5%B9%BF%E5%B7%9E%E5%8D%97%E6%B2%99%E5%A1%98%E5%9D%91%E7%AB%99%E5%95%86%E4%B8%9A%E7%BB%BC%E5%90%88%E4%BD%93/01_Image/012_Drawings/PERS%20FINAL%200.jpg",
+        "/media/architecture/%E5%B9%BF%E5%B7%9E%E5%8D%97%E6%B2%99%E5%A1%98%E5%9D%91%E7%AB%99%E5%95%86%E4%B8%9A%E7%BB%BC%E5%90%88%E4%BD%93/01_Image/012_Drawings/PERS%20FINAL%201.JPG",
+        "/media/architecture/%E5%B9%BF%E5%B7%9E%E5%8D%97%E6%B2%99%E5%A1%98%E5%9D%91%E7%AB%99%E5%95%86%E4%B8%9A%E7%BB%BC%E5%90%88%E4%BD%93/01_Image/012_Drawings/PERS%20FINAL%203.JPG"
+      ]
+    },
+    {
+      "slug": "guangzhou-hub-new-city-urban-design",
+      "year": "2026",
+      "title": {
+        "zh": "广州枢纽新城城市设计",
+        "en": "Guangzhou Hub New City Urban Design"
+      },
+      "role": {
+        "zh": "城市设计项目 · 个人职责待补充",
+        "en": "Urban design project · Individual role to be added"
+      },
+      "summary": {
+        "zh": "项目素材展示广州枢纽新城的城市设计与整体空间研究。源说明文件与项目名称不一致，当前以图像成果为主，详细设计说明待校对。",
+        "en": "The supplied material presents an urban-design and spatial study for Guangzhou Hub New City. The source description does not match the project title, so this entry currently prioritises the visual work while the full design statement awaits review."
+      },
+      "tools": [
+        "Urban Design",
+        "Masterplanning",
+        "Visualization"
+      ],
+      "pointCloud": {
+        "enabled": true,
+        "manifestUrl": "/media/architecture/point-clouds/guangzhou-hub-new-city-urban-design/manifest.json"
+      },
+      "category": "architecture",
+      "status": "ready",
+      "cover": "/media/architecture/%E5%B9%BF%E5%B7%9E%E6%9E%A2%E7%BA%BD%E6%96%B0%E5%9F%8E%E5%9F%8E%E5%B8%82%E8%AE%BE%E8%AE%A1/03_Heroshot.jpeg",
+      "gallery": [
+        "/media/architecture/%E5%B9%BF%E5%B7%9E%E6%9E%A2%E7%BA%BD%E6%96%B0%E5%9F%8E%E5%9F%8E%E5%B8%82%E8%AE%BE%E8%AE%A1/01_Image/011_Renders/02.jpeg",
+        "/media/architecture/%E5%B9%BF%E5%B7%9E%E6%9E%A2%E7%BA%BD%E6%96%B0%E5%9F%8E%E5%9F%8E%E5%B8%82%E8%AE%BE%E8%AE%A1/01_Image/011_Renders/03.jpeg",
+        "/media/architecture/%E5%B9%BF%E5%B7%9E%E6%9E%A2%E7%BA%BD%E6%96%B0%E5%9F%8E%E5%9F%8E%E5%B8%82%E8%AE%BE%E8%AE%A1/01_Image/011_Renders/04.jpeg",
+        "/media/architecture/%E5%B9%BF%E5%B7%9E%E6%9E%A2%E7%BA%BD%E6%96%B0%E5%9F%8E%E5%9F%8E%E5%B8%82%E8%AE%BE%E8%AE%A1/01_Image/011_Renders/20260515_KG%20REVIEW_NANSHAHUBCITY.jpeg"
+      ]
+    },
+    {
+      "slug": "yangzhou-cr-mixc",
+      "year": "2024",
+      "title": {
+        "zh": "扬州华润万象汇",
+        "en": "Yangzhou CR MixC"
+      },
+      "role": {
+        "zh": "专业建筑项目 · 个人职责待补充",
+        "en": "Professional architecture project · Individual role to be added"
+      },
+      "summary": {
+        "zh": "项目素材展示扬州华润万象汇的建筑体量、立面与多场景空间表达。源说明文件与项目名称不一致，当前以图像成果为主，详细设计说明待校对。",
+        "en": "The supplied material documents massing, façade, and multiple spatial scenarios for Yangzhou CR MixC. The source description does not match the project title, so the visual work is shown while the full design statement awaits review."
+      },
+      "tools": [
+        "Architecture",
+        "Commercial",
+        "Visualization"
+      ],
+      "pointCloud": {
+        "enabled": true,
+        "manifestUrl": "/media/architecture/point-clouds/yangzhou-cr-mixc/manifest.json"
+      },
+      "category": "architecture",
+      "status": "ready",
+      "cover": "/media/architecture/%E6%89%AC%E5%B7%9E%E5%8D%8E%E6%B6%A6%E4%B8%87%E8%B1%A1%E6%B1%87/03_Heroshot.jpg",
+      "gallery": [
+        "/media/architecture/%E6%89%AC%E5%B7%9E%E5%8D%8E%E6%B6%A6%E4%B8%87%E8%B1%A1%E6%B1%87/01_Image/011_Renders/c01-pptb.jpg",
+        "/media/architecture/%E6%89%AC%E5%B7%9E%E5%8D%8E%E6%B6%A6%E4%B8%87%E8%B1%A1%E6%B1%87/01_Image/011_Renders/c02-pptb.jpg",
+        "/media/architecture/%E6%89%AC%E5%B7%9E%E5%8D%8E%E6%B6%A6%E4%B8%87%E8%B1%A1%E6%B1%87/01_Image/011_Renders/c03-pptb.jpg",
+        "/media/architecture/%E6%89%AC%E5%B7%9E%E5%8D%8E%E6%B6%A6%E4%B8%87%E8%B1%A1%E6%B1%87/01_Image/011_Renders/c04-pptb.jpg",
+        "/media/architecture/%E6%89%AC%E5%B7%9E%E5%8D%8E%E6%B6%A6%E4%B8%87%E8%B1%A1%E6%B1%87/01_Image/011_Renders/c05-pptb.jpg",
+        "/media/architecture/%E6%89%AC%E5%B7%9E%E5%8D%8E%E6%B6%A6%E4%B8%87%E8%B1%A1%E6%B1%87/01_Image/011_Renders/c06-pptb.jpg",
+        "/media/architecture/%E6%89%AC%E5%B7%9E%E5%8D%8E%E6%B6%A6%E4%B8%87%E8%B1%A1%E6%B1%87/01_Image/011_Renders/c07-pptb.jpg",
+        "/media/architecture/%E6%89%AC%E5%B7%9E%E5%8D%8E%E6%B6%A6%E4%B8%87%E8%B1%A1%E6%B1%87/01_Image/011_Renders/d08-pptb.jpg",
+        "/media/architecture/%E6%89%AC%E5%B7%9E%E5%8D%8E%E6%B6%A6%E4%B8%87%E8%B1%A1%E6%B1%87/01_Image/011_Renders/d09b-pptb.jpg",
+        "/media/architecture/%E6%89%AC%E5%B7%9E%E5%8D%8E%E6%B6%A6%E4%B8%87%E8%B1%A1%E6%B1%87/01_Image/011_Renders/d10-pptb.jpg",
+        "/media/architecture/%E6%89%AC%E5%B7%9E%E5%8D%8E%E6%B6%A6%E4%B8%87%E8%B1%A1%E6%B1%87/01_Image/011_Renders/d11-pptb.jpg",
+        "/media/architecture/%E6%89%AC%E5%B7%9E%E5%8D%8E%E6%B6%A6%E4%B8%87%E8%B1%A1%E6%B1%87/01_Image/011_Renders/d12-pptb.jpg",
+        "/media/architecture/%E6%89%AC%E5%B7%9E%E5%8D%8E%E6%B6%A6%E4%B8%87%E8%B1%A1%E6%B1%87/01_Image/011_Renders/d13-pptb2.jpg",
+        "/media/architecture/%E6%89%AC%E5%B7%9E%E5%8D%8E%E6%B6%A6%E4%B8%87%E8%B1%A1%E6%B1%87/01_Image/011_Renders/i01-pptb.jpg",
+        "/media/architecture/%E6%89%AC%E5%B7%9E%E5%8D%8E%E6%B6%A6%E4%B8%87%E8%B1%A1%E6%B1%87/01_Image/011_Renders/i02-pptb.jpg",
+        "/media/architecture/%E6%89%AC%E5%B7%9E%E5%8D%8E%E6%B6%A6%E4%B8%87%E8%B1%A1%E6%B1%87/01_Image/011_Renders/m01-pptb.jpg",
+        "/media/architecture/%E6%89%AC%E5%B7%9E%E5%8D%8E%E6%B6%A6%E4%B8%87%E8%B1%A1%E6%B1%87/01_Image/011_Renders/m02-pptb.jpg",
+        "/media/architecture/%E6%89%AC%E5%B7%9E%E5%8D%8E%E6%B6%A6%E4%B8%87%E8%B1%A1%E6%B1%87/01_Image/011_Renders/m04-pptb.jpg",
+        "/media/architecture/%E6%89%AC%E5%B7%9E%E5%8D%8E%E6%B6%A6%E4%B8%87%E8%B1%A1%E6%B1%87/01_Image/011_Renders/NB.jpg"
+      ]
+    },
+    {
+      "slug": "chongqing-cisdi-headquarters",
+      "year": "2026",
+      "title": {
+        "zh": "重庆中冶赛迪有限公司总部",
+        "en": "Chongqing CISDI Headquarters"
+      },
+      "role": {
+        "zh": "专业建筑项目 · 个人职责待补充",
+        "en": "Professional architecture project · Individual role to be added"
+      },
+      "summary": {
+        "zh": "项目素材展示中冶赛迪重庆总部的城市界面、塔楼形象与公共空间。源说明文件与项目名称不一致，当前以图像成果为主，详细设计说明待校对。",
+        "en": "The supplied material presents the urban frontage, tower identity, and public realm of CISDI’s Chongqing headquarters. The source description does not match the project title, so the visual work is shown while the full design statement awaits review."
+      },
+      "tools": [
+        "Architecture",
+        "Headquarters",
+        "Public Realm"
+      ],
+      "pointCloud": {
+        "enabled": true,
+        "manifestUrl": "/media/architecture/point-clouds/chongqing-cisdi-headquarters/manifest.json"
+      },
+      "category": "architecture",
+      "status": "ready",
+      "cover": "/media/architecture/%E9%87%8D%E5%BA%86%E4%B8%AD%E5%86%B6%E8%B5%9B%E8%BF%AA%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E6%80%BB%E9%83%A8/03_Heroshot.jpg",
+      "gallery": [
+        "/media/architecture/%E9%87%8D%E5%BA%86%E4%B8%AD%E5%86%B6%E8%B5%9B%E8%BF%AA%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E6%80%BB%E9%83%A8/01_Image/011_Renders/%E5%9C%BA%E6%99%AF%20107%20A_edited%20backup.jpg",
+        "/media/architecture/%E9%87%8D%E5%BA%86%E4%B8%AD%E5%86%B6%E8%B5%9B%E8%BF%AA%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E6%80%BB%E9%83%A8/01_Image/011_Renders/%E5%9C%BA%E6%99%AF%20108%20Edited%20backup.jpg",
+        "/media/architecture/%E9%87%8D%E5%BA%86%E4%B8%AD%E5%86%B6%E8%B5%9B%E8%BF%AA%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E6%80%BB%E9%83%A8/01_Image/011_Renders/%E5%9C%BA%E6%99%AF%20186_4%2B.jpg",
+        "/media/architecture/%E9%87%8D%E5%BA%86%E4%B8%AD%E5%86%B6%E8%B5%9B%E8%BF%AA%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E6%80%BB%E9%83%A8/01_Image/011_Renders/%E5%9C%BA%E6%99%AF%20188_1.jpg",
+        "/media/architecture/%E9%87%8D%E5%BA%86%E4%B8%AD%E5%86%B6%E8%B5%9B%E8%BF%AA%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E6%80%BB%E9%83%A8/01_Image/011_Renders/%E5%9C%BA%E6%99%AF%20200_221%20SouthEntrance.jpg",
+        "/media/architecture/%E9%87%8D%E5%BA%86%E4%B8%AD%E5%86%B6%E8%B5%9B%E8%BF%AA%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E6%80%BB%E9%83%A8/01_Image/011_Renders/%E5%9C%BA%E6%99%AF%20207.jpg",
+        "/media/architecture/%E9%87%8D%E5%BA%86%E4%B8%AD%E5%86%B6%E8%B5%9B%E8%BF%AA%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E6%80%BB%E9%83%A8/01_Image/011_Renders/%E5%9C%BA%E6%99%AF%20208.jpg",
+        "/media/architecture/%E9%87%8D%E5%BA%86%E4%B8%AD%E5%86%B6%E8%B5%9B%E8%BF%AA%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E6%80%BB%E9%83%A8/01_Image/011_Renders/%E5%9C%BA%E6%99%AF%20209.jpg",
+        "/media/architecture/%E9%87%8D%E5%BA%86%E4%B8%AD%E5%86%B6%E8%B5%9B%E8%BF%AA%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E6%80%BB%E9%83%A8/01_Image/011_Renders/%E5%9C%BA%E6%99%AF%20210.png",
+        "/media/architecture/%E9%87%8D%E5%BA%86%E4%B8%AD%E5%86%B6%E8%B5%9B%E8%BF%AA%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E6%80%BB%E9%83%A8/01_Image/011_Renders/%E5%9C%BA%E6%99%AF%20228.png",
+        "/media/architecture/%E9%87%8D%E5%BA%86%E4%B8%AD%E5%86%B6%E8%B5%9B%E8%BF%AA%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E6%80%BB%E9%83%A8/01_Image/011_Renders/%E9%87%8D%E9%98%8101.jpg",
+        "/media/architecture/%E9%87%8D%E5%BA%86%E4%B8%AD%E5%86%B6%E8%B5%9B%E8%BF%AA%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E6%80%BB%E9%83%A8/01_Image/011_Renders/%E9%87%8D%E9%98%8102.jpg",
+        "/media/architecture/%E9%87%8D%E5%BA%86%E4%B8%AD%E5%86%B6%E8%B5%9B%E8%BF%AA%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E6%80%BB%E9%83%A8/01_Image/011_Renders/%E9%87%8D%E9%98%8103.jpg",
+        "/media/architecture/%E9%87%8D%E5%BA%86%E4%B8%AD%E5%86%B6%E8%B5%9B%E8%BF%AA%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E6%80%BB%E9%83%A8/01_Image/012_Drawings/20260105%20%20mlp.png"
+      ]
+    },
+    {
+      "slug": "jinhua-shuiyangze-sports-complex",
+      "year": "2026",
+      "title": {
+        "zh": "金华水漾泽运动综合体",
+        "en": "Jinhua Shuiyangze Sports Complex"
+      },
+      "role": {
+        "zh": "专业建筑项目 · 个人职责待补充",
+        "en": "Professional architecture project · Individual role to be added"
+      },
+      "summary": {
+        "zh": "项目以“漂浮在水岸的文体方舟”为意象，通过“三重水韵”组织自然与人文。液态流线构成蓝色水系与绿色廊道，波浪形金属幕墙模拟水波光影；主要建筑以架空方式保留原生植被，形成建筑生长于自然的场所体验。",
+        "en": "Conceived as a cultural and sports ark floating beside the water, the complex uses a three-part aquatic narrative to connect nature and community. Flowing blue and green networks meet wave-like metal façades, while raised building volumes preserve existing vegetation and appear to grow from the landscape."
+      },
+      "tools": [
+        "Architecture",
+        "Sports & Culture",
+        "Landscape Integration"
+      ],
+      "pointCloud": {
+        "enabled": true,
+        "manifestUrl": "/media/architecture/point-clouds/jinhua-shuiyangze-sports-complex/manifest.json"
+      },
+      "category": "architecture",
+      "status": "ready",
+      "cover": "/media/architecture/%E9%87%91%E5%8D%8E%E6%B0%B4%E6%BC%BE%E6%B3%BD%E8%BF%90%E5%8A%A8%E7%BB%BC%E5%90%88%E4%BD%93/03_Heroshot.jpg",
+      "gallery": [
+        "/media/architecture/%E9%87%91%E5%8D%8E%E6%B0%B4%E6%BC%BE%E6%B3%BD%E8%BF%90%E5%8A%A8%E7%BB%BC%E5%90%88%E4%BD%93/01_Image/011_Renders/Image%2055.png",
+        "/media/architecture/%E9%87%91%E5%8D%8E%E6%B0%B4%E6%BC%BE%E6%B3%BD%E8%BF%90%E5%8A%A8%E7%BB%BC%E5%90%88%E4%BD%93/01_Image/011_Renders/Image%2057.png",
+        "/media/architecture/%E9%87%91%E5%8D%8E%E6%B0%B4%E6%BC%BE%E6%B3%BD%E8%BF%90%E5%8A%A8%E7%BB%BC%E5%90%88%E4%BD%93/01_Image/011_Renders/R-01.jpg",
+        "/media/architecture/%E9%87%91%E5%8D%8E%E6%B0%B4%E6%BC%BE%E6%B3%BD%E8%BF%90%E5%8A%A8%E7%BB%BC%E5%90%88%E4%BD%93/01_Image/011_Renders/R-02.jpg",
+        "/media/architecture/%E9%87%91%E5%8D%8E%E6%B0%B4%E6%BC%BE%E6%B3%BD%E8%BF%90%E5%8A%A8%E7%BB%BC%E5%90%88%E4%BD%93/01_Image/011_Renders/R-03.jpg",
+        "/media/architecture/%E9%87%91%E5%8D%8E%E6%B0%B4%E6%BC%BE%E6%B3%BD%E8%BF%90%E5%8A%A8%E7%BB%BC%E5%90%88%E4%BD%93/01_Image/011_Renders/R-04.jpg",
+        "/media/architecture/%E9%87%91%E5%8D%8E%E6%B0%B4%E6%BC%BE%E6%B3%BD%E8%BF%90%E5%8A%A8%E7%BB%BC%E5%90%88%E4%BD%93/01_Image/011_Renders/R-05.jpg",
+        "/media/architecture/%E9%87%91%E5%8D%8E%E6%B0%B4%E6%BC%BE%E6%B3%BD%E8%BF%90%E5%8A%A8%E7%BB%BC%E5%90%88%E4%BD%93/01_Image/011_Renders/R-06.jpg",
+        "/media/architecture/%E9%87%91%E5%8D%8E%E6%B0%B4%E6%BC%BE%E6%B3%BD%E8%BF%90%E5%8A%A8%E7%BB%BC%E5%90%88%E4%BD%93/01_Image/011_Renders/R-07.jpg",
+        "/media/architecture/%E9%87%91%E5%8D%8E%E6%B0%B4%E6%BC%BE%E6%B3%BD%E8%BF%90%E5%8A%A8%E7%BB%BC%E5%90%88%E4%BD%93/01_Image/011_Renders/R-08.jpg",
+        "/media/architecture/%E9%87%91%E5%8D%8E%E6%B0%B4%E6%BC%BE%E6%B3%BD%E8%BF%90%E5%8A%A8%E7%BB%BC%E5%90%88%E4%BD%93/01_Image/012_Drawings/20260205%20MLP%20%2B%20Model.jpg",
+        "/media/architecture/%E9%87%91%E5%8D%8E%E6%B0%B4%E6%BC%BE%E6%B3%BD%E8%BF%90%E5%8A%A8%E7%BB%BC%E5%90%88%E4%BD%93/01_Image/012_Drawings/20260206%20Plan%20GF.jpg",
+        "/media/architecture/%E9%87%91%E5%8D%8E%E6%B0%B4%E6%BC%BE%E6%B3%BD%E8%BF%90%E5%8A%A8%E7%BB%BC%E5%90%88%E4%BD%93/01_Image/012_Drawings/20260206%20Plans%202F.jpg"
+      ]
+    },
+    {
+      "slug": "game-jam-selected-01",
+      "category": "game",
+      "status": "placeholder",
+      "year": "Game Jam",
+      "title": {
+        "zh": "Game Jam 作品 · 项目待补充",
+        "en": "Game Jam · Project to be added"
+      },
+      "role": {
+        "zh": "游戏设计职责待补充",
+        "en": "Game-design role to be added"
+      },
+      "summary": {
+        "zh": "预留给 Game Jam 代表作：说明主题、制作周期、团队规模、职责与可玩的链接。",
+        "en": "Reserved for a Game Jam highlight: add the theme, production time, team size, contribution, and playable link."
+      },
+      "tools": [
+        "Unreal Engine",
+        "Game Design"
+      ]
+    }
+  ],
+  "viewpoints": [
+    {
+      "id": "vp-01",
+      "label": {
+        "zh": "机位 01 · 入口与视线引导",
+        "en": "Viewpoint 01 · Entry & sightline"
+      },
+      "description": {
+        "zh": "固定相机：记录玩家进入主空间后的第一阅读顺序与前进方向。",
+        "en": "Locked camera: captures the player’s first read of the main space and intended direction of travel."
+      },
+      "versions": [
+        {
+          "id": "v01",
+          "date": "V0.1",
+          "stage": {
+            "zh": "体块与主路径",
+            "en": "Blockout & primary route"
+          },
+          "note": {
+            "zh": "等待导入固定机位截图。",
+            "en": "Waiting for the locked-camera screenshot."
+          },
+          "reason": {
+            "zh": "建立尺度、入口识别与主目标。",
+            "en": "Establish scale, entry legibility, and the primary goal."
+          },
+          "tone": "amber"
+        },
+        {
+          "id": "v02",
+          "date": "V0.2",
+          "stage": {
+            "zh": "掩体与节奏",
+            "en": "Cover & pacing"
+          },
+          "note": {
+            "zh": "等待导入固定机位截图。",
+            "en": "Waiting for the locked-camera screenshot."
+          },
+          "reason": {
+            "zh": "检验战斗停留、信息遮挡和路径选择。",
+            "en": "Test combat dwell time, occlusion, and route choice."
+          },
+          "tone": "blue"
+        },
+        {
+          "id": "v03",
+          "date": "V0.3",
+          "stage": {
+            "zh": "游戏性调整",
+            "en": "Gameplay revision"
+          },
+          "note": {
+            "zh": "等待导入固定机位截图。",
+            "en": "Waiting for the locked-camera screenshot."
+          },
+          "reason": {
+            "zh": "记录测试反馈后的空间调整。",
+            "en": "Record spatial changes made after playtest feedback."
+          },
+          "tone": "green"
+        }
+      ]
+    },
+    {
+      "id": "vp-02",
+      "label": {
+        "zh": "机位 02 · 高差与路线选择",
+        "en": "Viewpoint 02 · Elevation & route choice"
+      },
+      "description": {
+        "zh": "固定相机：记录垂直关系、可达性暗示与路线分叉。",
+        "en": "Locked camera: captures vertical relationships, reachability cues, and route branching."
+      },
+      "versions": [
+        {
+          "id": "v01",
+          "date": "V0.1",
+          "stage": {
+            "zh": "高度关系",
+            "en": "Elevation study"
+          },
+          "note": {
+            "zh": "等待导入固定机位截图。",
+            "en": "Waiting for the locked-camera screenshot."
+          },
+          "reason": {
+            "zh": "先验证上下层之间的可读性。",
+            "en": "First validate readability between upper and lower levels."
+          },
+          "tone": "amber"
+        },
+        {
+          "id": "v02",
+          "date": "V0.2",
+          "stage": {
+            "zh": "路径强化",
+            "en": "Route reinforcement"
+          },
+          "note": {
+            "zh": "等待导入固定机位截图。",
+            "en": "Waiting for the locked-camera screenshot."
+          },
+          "reason": {
+            "zh": "强化风险与奖励之间的路线差异。",
+            "en": "Strengthen route differences between risk and reward."
+          },
+          "tone": "blue"
+        }
+      ]
+    }
+  ],
+  "homepage": {
+    "copy": {
+      "zh": {
+        "skipToContent": "跳至主要内容",
+        "homepageLabel": "SPACE / PLAY 首页",
+        "navigationLabel": "主要导航",
+        "switchLanguageLabel": "Switch to English",
+        "architecture": "建筑",
+        "game": "Game Jam",
+        "level": "关卡设计",
+        "about": "关于",
+        "menu": "导航",
+        "close": "关闭",
+        "heroKicker": "SPACE / PLAY · 2021—2026",
+        "heroTitleA": "从空间秩序",
+        "heroTitleB": "到可游玩的世界",
+        "heroIntro": "把尺度、动线、视线与场所感转译成玩家可以阅读、选择和记住的体验。",
+        "explore": "进入空间图谱",
+        "visualLabel": "当前场景 / Game Jam",
+        "visualNote": "视觉素材会继续迭代；网页界面保持独立，方便同名替换。",
+        "atlasKicker": "01 / SPATIAL INDEX",
+        "atlasTitle": "作品不是卡片，是三个空间入口。",
+        "atlasIntro": "每个入口先提出一个空间问题，再进入图纸、模型、玩法和迭代过程。",
+        "open": "查看项目",
+        "waiting": "等待同机位白盒素材",
+        "methodKicker": "02 / METHOD",
+        "methodTitle": "同一种空间思维，两种设计尺度。",
+        "methodText": "建筑训练负责组织尺度、光线与动线；关卡设计把这些关系变成节奏、风险与选择。最终呈现的不只是效果图，而是空间决策如何影响体验。",
+        "process": "查看白盒迭代",
+        "footer": "建筑 · 游戏 · 关卡设计"
+      },
+      "en": {
+        "skipToContent": "Skip to main content",
+        "homepageLabel": "SPACE / PLAY home",
+        "navigationLabel": "Primary navigation",
+        "switchLanguageLabel": "切换到中文",
+        "architecture": "Architecture",
+        "game": "Game Jam",
+        "level": "Level Design",
+        "about": "About",
+        "menu": "Index",
+        "close": "Close",
+        "heroKicker": "SPACE / PLAY · 2021—2026",
+        "heroTitleA": "From spatial order",
+        "heroTitleB": "to playable worlds",
+        "heroIntro": "Translating scale, circulation, sightlines, and sense of place into experiences players can read, choose, and remember.",
+        "explore": "Enter the spatial index",
+        "visualLabel": "Current scene / Game Jam",
+        "visualNote": "Visual assets can keep evolving while the interface remains stable for simple file replacement.",
+        "atlasKicker": "01 / SPATIAL INDEX",
+        "atlasTitle": "Not a grid of cards, but three spatial entrances.",
+        "atlasIntro": "Each entrance begins with a spatial question, then opens into drawings, models, play, and iteration.",
+        "open": "Open project",
+        "waiting": "Locked-camera whitebox set pending",
+        "methodKicker": "02 / METHOD",
+        "methodTitle": "One spatial mindset, two scales of design.",
+        "methodText": "Architecture organizes scale, light, and circulation. Level design turns those relationships into pacing, risk, and choice. The work shows not only final images, but how spatial decisions change experience.",
+        "process": "View whitebox iterations",
+        "footer": "Architecture · Games · Level design"
+      }
+    },
+    "featuredVisual": {
+      "desktopImage": "/media/space-play-v1/hero/hero-desktop.jpg",
+      "mobileImage": "/media/space-play-v1/hero/hero-mobile.jpg",
+      "imageAlt": {
+        "zh": "Game Jam 项目的案件档案式主界面",
+        "en": "Case-file inspired main interface from a Game Jam project"
+      }
+    },
+    "projectCards": {
+      "architecture": {
+        "title": {
+          "zh": "建筑实践",
+          "en": "Architectural practice"
+        },
+        "description": {
+          "zh": "如何用体量、立面与城市关系建立清晰的空间秩序？",
+          "en": "How can massing, façade, and urban relationships establish a legible spatial order?"
+        },
+        "image": "/media/space-play-v1/projects/architecture-cover.jpg",
+        "imageAlt": {
+          "zh": "城市建筑与高层建筑设计渲染",
+          "en": "Urban architecture and high-rise design rendering"
+        }
+      },
+      "game": {
+        "title": {
+          "zh": "短周期游戏制作",
+          "en": "Short-cycle game making"
+        },
+        "description": {
+          "zh": "如何让视觉主题、规则和玩家行动在有限时间内成立？",
+          "en": "How can visual direction, rules, and player action cohere within a limited production window?"
+        },
+        "image": "/media/space-play-v1/projects/game-jam-cover.png",
+        "imageAlt": {
+          "zh": "游戏地图与区域路径界面",
+          "en": "Game map and regional route interface"
+        }
+      },
+      "level": {
+        "title": {
+          "zh": "关卡与路径系统",
+          "en": "Level and route systems"
+        },
+        "description": {
+          "zh": "如何通过路线、高差、遮挡和目标提示引导玩家？",
+          "en": "How do routes, elevation, occlusion, and goals guide player decisions?"
+        },
+        "imageAlt": {
+          "zh": "抽象关卡路径图",
+          "en": "Abstract level-route diagram"
+        }
+      }
+    },
+    "contact": {
+      "email": "skydence63@gmail.com"
+    },
+    "navigation": {
+      "chaptersLabel": {
+        "zh": "首页章节导航",
+        "en": "Homepage chapters"
+      },
+      "expandLabel": {
+        "zh": "展开章节导航",
+        "en": "Expand chapter navigation"
+      },
+      "collapseLabel": {
+        "zh": "收起章节导航",
+        "en": "Collapse chapter navigation"
+      },
+      "socialLabel": {
+        "zh": "社交账号",
+        "en": "Social profiles"
+      },
+      "pendingLabel": {
+        "zh": "待填写",
+        "en": "Pending"
+      },
+      "languageLabel": {
+        "zh": "English",
+        "en": "中文"
+      }
+    },
+    "chapters": {
+      "home": {
+        "mark": "HW",
+        "href": "#about",
+        "kicker": {
+          "zh": "01 / SPACE / PLAY",
+          "en": "01 / SPACE / PLAY"
+        },
+        "title": {
+          "zh": "HAOTIAN'S PORTFOLIO",
+          "en": "HAOTIAN'S PORTFOLIO"
+        },
+        "navigationTitle": {
+          "zh": "HAOTIAN WANG 王昊天",
+          "en": "HAOTIAN WANG 王昊天"
+        },
+        "description": {
+          "zh": "从空间秩序来，到虚拟世界去",
+          "en": "From spatial order, into virtual worlds"
+        },
+        "cta": {
+          "zh": "向下浏览",
+          "en": "Scroll to explore"
+        }
+      },
+      "gameWorks": {
+        "mark": "GW",
+        "href": "/game-jam",
+        "kicker": {
+          "zh": "03 / PLAY · WORKS",
+          "en": "03 / PLAY · WORKS"
+        },
+        "title": {
+          "zh": "游戏作品",
+          "en": "Game works"
+        },
+        "description": {
+          "zh": "在短周期制作里，让视觉主题、核心规则与玩家行动形成同一个清晰回路。",
+          "en": "Short-cycle projects where visual direction, core rules, and player action form one legible loop."
+        },
+        "cta": {
+          "zh": "进入游戏作品",
+          "en": "Open game works"
+        }
+      },
+      "gameKnowledge": {
+        "mark": "GK",
+        "href": "/level-design",
+        "kicker": {
+          "zh": "05 / PLAY · KNOWLEDGE",
+          "en": "05 / PLAY · KNOWLEDGE"
+        },
+        "title": {
+          "zh": "游戏知识库",
+          "en": "Game knowledge"
+        },
+        "description": {
+          "zh": "记录关卡白盒、路线、高差、遮挡与目标提示如何共同塑造节奏和选择。",
+          "en": "A working archive of how blockouts, routes, elevation, occlusion, and goals shape pacing and choice."
+        },
+        "cta": {
+          "zh": "查看关卡知识库",
+          "en": "Open level knowledge"
+        }
+      },
+      "architecture": {
+        "mark": "AR",
+        "href": "/architecture",
+        "kicker": {
+          "zh": "04 / SPACE · WORKS",
+          "en": "04 / SPACE · WORKS"
+        },
+        "title": {
+          "zh": "建筑作品",
+          "en": "Architecture"
+        },
+        "description": {
+          "zh": "从体量、立面到城市关系，展示建筑训练如何建立尺度、光线与动线的空间秩序。",
+          "en": "Massing, façades, and urban relationships reveal how architecture organizes scale, light, and circulation."
+        },
+        "cta": {
+          "zh": "进入建筑作品",
+          "en": "Open architecture"
+        }
+      },
+      "about": {
+        "mark": "AB",
+        "href": "/about",
+        "kicker": {
+          "zh": "02 / PROFILE",
+          "en": "02 / PROFILE"
+        },
+        "title": {
+          "zh": "关于我",
+          "en": "About me"
+        },
+        "description": {
+          "zh": "建筑学背景转关卡策划，关注探索、解谜、叙事驱动游戏中的空间体验、玩家路径与节奏。",
+          "en": "A level designer with an architectural background, focused on spatial experience, player routes, and pacing across exploration, puzzle, and narrative-driven games."
+        },
+        "cta": {
+          "zh": "查看个人简介",
+          "en": "View profile"
+        }
+      }
+    },
+    "socials": [
+      {
+        "name": "Bilibili",
+        "mark": "B",
+        "url": "https://space.bilibili.com/14202384",
+        "iconUrl": "/media/space-play-v1/Contact/bilibili-color.png"
+      },
+      {
+        "name": "小红书",
+        "mark": "R",
+        "url": "https://www.xiaohongshu.com/user/profile/6533ca350000000006005fd1",
+        "iconUrl": "/media/space-play-v1/Contact/Xiaohongshu-logo.png"
+      },
+      {
+        "name": "GitHub",
+        "mark": "GH",
+        "url": "https://github.com/Skydence1",
+        "iconUrl": "/media/space-play-v1/Contact/Github.png"
+      }
+    ],
+    "sound": {
+      "onLabel": {
+        "zh": "声音：开",
+        "en": "Sound: on"
+      },
+      "offLabel": {
+        "zh": "声音：关",
+        "en": "Sound: off"
+      },
+      "unavailableLabel": {
+        "zh": "声音素材待添加",
+        "en": "Audio pending"
+      },
+      "audioUrl": "",
+      "customTitle": "",
+      "tracks": [
+        {
+          "title": "The Golden Ratio",
+          "artist": "Purrple Cat",
+          "audioUrl": "/media/music/the-golden-ratio.mp3",
+          "creditsUrl": "/media/music/credits.html"
+        },
+        {
+          "title": "Beach Resort",
+          "artist": "Purrple Cat",
+          "audioUrl": "/media/music/beach-resort.mp3",
+          "creditsUrl": "/media/music/credits.html"
+        },
+        {
+          "title": "Look On The Bright Side",
+          "artist": "Purrple Cat",
+          "audioUrl": "/media/music/look-on-the-bright-side.mp3",
+          "creditsUrl": "/media/music/credits.html"
+        },
+        {
+          "title": "Quiet Night",
+          "artist": "Purrple Cat",
+          "audioUrl": "/media/music/quiet-night.mp3",
+          "creditsUrl": "/media/music/credits.html"
+        },
+        {
+          "title": "Road Trip",
+          "artist": "Purrple Cat",
+          "audioUrl": "/media/music/road-trip.mp3",
+          "creditsUrl": "/media/music/credits.html"
+        }
+      ]
+    }
+  },
+  "profile": {
+    "name": "王昊天",
+    "englishName": "WANG HAOTIAN",
+    "role": {
+      "zh": "关卡策划",
+      "en": "Level Designer"
+    },
+    "summary": {
+      "zh": "建筑学背景转关卡策划，具备箱庭/区域关卡的空间组织、平面推演与场景白盒搭建能力。参与多项 Game Jam 项目的核心玩法构建、关卡流程设计与白盒验证，关注探索、解谜、叙事驱动与生活模拟类游戏中的空间体验、POI 布置、探索动线与玩家节奏设计。能够从玩法目标拆解到关卡流程、空间布局与交互节点设计，并与程序、美术协作推进内容落地。熟悉使用 Codex 辅助编程解决 UE5 工程难题，利用 ComfyUI 控制生成游戏美术资产。",
+      "en": "With an architectural background and a focus on level design, I work across spatial organization, plan-based reasoning, and scene blockouts for sandbox and area-based levels. I have contributed to the core gameplay, level flow, and blockout validation of several Game Jam projects, with a focus on exploration, puzzles, narrative-driven play, life simulation, POI placement, traversal, and player pacing. I move from gameplay goals to level flows, spatial layouts, and interaction nodes, then work with programmers and artists to bring the design into production. I also use Codex to solve UE5 engineering problems and ComfyUI to control the generation of game art assets."
+    },
+    "education": [
+      {
+        "school": {
+          "zh": "墨尔本大学（QS19）",
+          "en": "The University of Melbourne (QS19)"
+        },
+        "degree": {
+          "zh": "建筑学硕士",
+          "en": "Master of Architecture"
+        },
+        "period": "2021 - 2023",
+        "note": {
+          "zh": "建筑学",
+          "en": "Architecture"
+        }
+      },
+      {
+        "school": {
+          "zh": "蒙纳士大学（QS36）",
+          "en": "Monash University (QS36)"
+        },
+        "degree": {
+          "zh": "建筑学学士",
+          "en": "Bachelor of Architecture"
+        },
+        "period": "2017 - 2020",
+        "note": {
+          "zh": "建筑学",
+          "en": "Architecture"
+        }
+      }
+    ],
+    "experience": [
+      {
+        "company": {
+          "zh": "凯达环球建筑设计咨询有限公司 Aedas（深圳）",
+          "en": "Aedas (Shenzhen)"
+        },
+        "role": {
+          "zh": "建筑 AI 设计师",
+          "en": "Architectural AI Designer"
+        },
+        "period": "2023.7 - 现今",
+        "bullets": [
+          {
+            "zh": "参与概念方案推演与空间结构验证，能够快速从平面关系推导三维空间布局。",
+            "en": "Contributed to concept development and spatial-structure validation, quickly translating plan relationships into three-dimensional layouts."
+          },
+          {
+            "zh": "调研用户类型，通过白盒设计优化空间构造，服务于客户心流体验；基于平剖面推演，使用 Grasshopper 与 Rhino 完成参数化建模及后期渲染表达，准确传达空间细节与设计巧思。",
+            "en": "Researched user types and used blockout design to refine spatial structures for client flow; developed parametric models and rendered design studies with Grasshopper and Rhino to communicate spatial detail and intent."
+          },
+          {
+            "zh": "作为 AI 研究员，将 Stable Diffusion 工作流融入工作，提高前期意向表达图产出效率 80%+，在保持图面质量的同时快速传达模型细节，加快跨部门沟通协作。",
+            "en": "As an AI researcher, integrated Stable Diffusion workflows into early-stage design, improving the output efficiency of intent images by 80%+ while communicating model detail faster across teams."
+          },
+          {
+            "zh": "构建建造规范 Agent 智能体，利用 RAG 技术融合业务所在城市的建筑设计规范文本，辅助项目落地设计师检索当地设计规章制度。",
+            "en": "Built a construction-regulation Agent using RAG to combine local architectural code text and support designers in retrieving relevant regulations during project delivery."
+          }
+        ]
+      },
+      {
+        "company": {
+          "zh": "深圳市建筑设计研究总院（院士创作室）",
+          "en": "Shenzhen General Institute of Architectural Design & Research (Academician Studio)"
+        },
+        "role": {
+          "zh": "建筑设计师",
+          "en": "Architectural Designer"
+        },
+        "period": "2023.3 - 7",
+        "bullets": [
+          {
+            "zh": "在多版本方案迭代中培养了围绕目标行为组织动线、节点与体验节奏的能力；在一周内创作出 10 余种比选方案，供团队讨论选择最终深化方案。",
+            "en": "Developed the ability to organize circulation, nodes, and experiential rhythm around target behaviors through multi-version iteration; produced more than ten options in one week for the team to compare and select for further development."
+          },
+          {
+            "zh": "熟悉 Rhino、Grasshopper 等工具，可高效完成空间结构表达与方案验证。",
+            "en": "Used Rhino, Grasshopper, and related tools to efficiently express spatial structures and validate design options."
+          }
+        ]
+      }
+    ],
+    "projects": [
+      {
+        "title": {
+          "zh": "3D 类箱庭解密 RPG《游光》",
+          "en": "3D Sandbox Puzzle RPG \"Youguang\""
+        },
+        "context": {
+          "zh": "TAPTAP GAMEJAM 2025 · Godot 开发",
+          "en": "TAPTAP GAMEJAM 2025 · Developed in Godot"
+        },
+        "role": {
+          "zh": "关卡策划",
+          "en": "Level Designer"
+        },
+        "period": "2024.9 - 10",
+        "link": "https://www.taptap.cn/app/724912?os=pc",
+        "bullets": [
+          {
+            "zh": "围绕角色机制与剧情目标，梳理角色与场景的交互规则，搭建关卡核心体验框架。",
+            "en": "Mapped character-scene interaction rules around character mechanics and narrative goals to establish the core level-experience framework."
+          },
+          {
+            "zh": "调研相关类型游戏，确认剧情大纲与关卡结合的叙事逻辑，根据角色机制设计角色与世界的交互规则。",
+            "en": "Researched related genres, defined the narrative logic connecting the story outline and level, and designed character-world interactions around the character mechanics."
+          },
+          {
+            "zh": "设计关卡流程与空间布局，将探索、解谜与叙事节点整合到统一的关卡推进中；基于关卡流程进行平面布局推导与空间白盒搭建，关注区域结构、兴趣点布置与探索路径设计。",
+            "en": "Designed level flow and spatial layout, combining exploration, puzzles, and narrative beats in one progression; derived plans and built spatial blockouts from the flow, with attention to area structure, POI placement, and traversal routes."
+          }
+        ]
+      },
+      {
+        "title": {
+          "zh": "解密逃生类《后室挖宝》",
+          "en": "Puzzle Escape Game \"Backroom Treasure Hunt\""
+        },
+        "context": {
+          "zh": "GGJ 2026 深圳站点 · 48 小时 Unity 项目",
+          "en": "GGJ 2026 Shenzhen site · 48-hour Unity project"
+        },
+        "role": {
+          "zh": "关卡策划",
+          "en": "Level Designer"
+        },
+        "period": "2026.2",
+        "link": "https://globalgamejam.org/games/2026/treasure-hunting-backroom-houshiwabao-6",
+        "bullets": [
+          {
+            "zh": "搭建关卡白盒，组织玩家在有限信息环境下完成探索、判断与风险规避。",
+            "en": "Built the level blockout to organize exploration, judgment, and risk avoidance under limited information."
+          },
+          {
+            "zh": "根据“后室探索 + 扫雷式信息判断”的体验方向，设计关卡流程与空间推进逻辑。",
+            "en": "Designed level flow and spatial progression around a backroom exploration experience with Minesweeper-like information judgment."
+          },
+          {
+            "zh": "负责项目进度管理及产品宣发，统一项目整体风格表达。",
+            "en": "Managed project progress and product promotion while keeping the overall visual direction coherent."
+          }
+        ]
+      },
+      {
+        "title": {
+          "zh": "AI 实时驱动类文字冒险 RPG《末位淘汰的七日默示录》",
+          "en": "AI-Driven Text Adventure RPG \"Seven-Day Apocalypse\""
+        },
+        "context": {
+          "zh": "机核 BOOOMJAM 2025 · Unity 开发",
+          "en": "Gcores BOOOMJAM 2025 · Developed in Unity"
+        },
+        "role": {
+          "zh": "玩法策划 & AIGC 设计",
+          "en": "Gameplay Designer & AIGC Designer"
+        },
+        "period": "2025.5 - 6",
+        "link": "https://www.gcores.com/games/148146",
+        "bullets": [
+          {
+            "zh": "搭建 ComfyUI 工作流，根据玩家选择导向的 MBTI 性格类型，基于 SDXL、IP-Adapter、RMBG 等技术实现玩家角色头像实时生成。",
+            "en": "Built a ComfyUI workflow that generates player avatars in real time from the MBTI personality type implied by player choices, using SDXL, IP-Adapter, RMBG, and related techniques."
+          },
+          {
+            "zh": "参与制定核心游戏流程、NPC 系统及性格设定、玩家状态（工作、假期、资金等）与随机事件，实现游戏资源和需求的功能平衡，输出设计案交付程序。",
+            "en": "Helped define the core game flow, NPC system and personalities, player states such as work, holidays, and funds, and random events; balanced resource and need systems and delivered design briefs to engineering."
+          },
+          {
+            "zh": "根据 NPC 性格设定编写结构化 JSON 内容，对接程序并辅助实现 AI NPC 性格与外观生成逻辑。",
+            "en": "Authored structured JSON content from NPC personality definitions and supported engineering in implementing AI NPC personality and appearance generation."
+          },
+          {
+            "zh": "利用 Figma 及 Axure 设计游戏 UI，制定玩家 UI 交互方式，通过试玩反馈持续改进界面体验。",
+            "en": "Designed the game UI in Figma and Axure, defined player interaction patterns, and iterated on the interface through playtest feedback."
+          },
+          {
+            "zh": "编写设计需求文档，将 ComfyUI 工作流逻辑及 MBTI 计算方式对接程序，并与美术对接需求风格。",
+            "en": "Wrote design requirement documents, connected the ComfyUI workflow and MBTI calculation to engineering, and aligned the requested visual direction with art."
+          }
+        ]
+      }
+    ],
+    "skills": {
+      "design": [
+        {
+          "zh": "关卡与设计",
+          "en": "Level design"
+        },
+        {
+          "zh": "平面布局推导",
+          "en": "Plan-based layout reasoning"
+        },
+        {
+          "zh": "空间白盒搭建",
+          "en": "Spatial blockout"
+        },
+        {
+          "zh": "核心玩法拆解",
+          "en": "Core gameplay breakdown"
+        },
+        {
+          "zh": "叙事关卡结合设计",
+          "en": "Narrative-level integration"
+        },
+        {
+          "zh": "玩家路径及节奏验证",
+          "en": "Player route and pacing validation"
+        }
+      ],
+      "tools": [
+        "UE5",
+        "Godot",
+        "Figma",
+        "Codex",
+        "Rhino",
+        "Grasshopper"
+      ],
+      "gameTaste": [
+        {
+          "genre": {
+            "zh": "沙盒类",
+            "en": "Sandbox"
+          },
+          "titles": {
+            "zh": "Minecraft",
+            "en": "Minecraft"
+          }
+        },
+        {
+          "genre": {
+            "zh": "SIM",
+            "en": "Simulation"
+          },
+          "titles": {
+            "zh": "饥荒 · Grounded",
+            "en": "Don't Starve · Grounded"
+          }
+        },
+        {
+          "genre": {
+            "zh": "MOBA",
+            "en": "MOBA"
+          },
+          "titles": {
+            "zh": "英雄联盟",
+            "en": "League of Legends"
+          }
+        },
+        {
+          "genre": {
+            "zh": "ARPG",
+            "en": "ARPG"
+          },
+          "titles": {
+            "zh": "原神 · 绝区零 · 黑神话·悟空 · 地下城与勇士 · 塞尔达：旷野之息 · RE4 · RE9",
+            "en": "Genshin Impact · Zenless Zone Zero · Black Myth: Wukong · Dungeon Fighter · The Legend of Zelda: Breath of the Wild · RE4 · RE9"
+          }
+        },
+        {
+          "genre": {
+            "zh": "RPG",
+            "en": "RPG"
+          },
+          "titles": {
+            "zh": "崩坏：星穹铁道 · 终末地",
+            "en": "Honkai: Star Rail · Endfield"
+          }
+        },
+        {
+          "genre": {
+            "zh": "JRPG",
+            "en": "JRPG"
+          },
+          "titles": {
+            "zh": "光与影：33 号远征队",
+            "en": "Clair Obscur: Expedition 33"
+          }
+        },
+        {
+          "genre": {
+            "zh": "RTS",
+            "en": "RTS"
+          },
+          "titles": {
+            "zh": "星际争霸 II",
+            "en": "StarCraft II"
+          }
+        },
+        {
+          "genre": {
+            "zh": "FPS",
+            "en": "FPS"
+          },
+          "titles": {
+            "zh": "三角洲行动 · OW",
+            "en": "Delta Force · Overwatch"
+          }
+        }
+      ]
+    },
+    "contact": {
+      "email": "skydence63@gmail.com",
+      "portfolioUrl": "https://space.bilibili.com/14202384?spm_id_from=333.788.0.0",
+      "portfolioLabel": {
+        "zh": "Bilibili 作品集",
+        "en": "Bilibili portfolio"
+      }
+    }
+  }
+}

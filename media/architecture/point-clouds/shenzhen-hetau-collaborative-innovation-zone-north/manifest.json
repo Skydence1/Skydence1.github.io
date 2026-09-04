@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "format": "spc-u16-v1",
+  "source": {
+    "sha256": "d1e0b2b0f747b1b52f1a43b0eea7bc46a3f048cc881fd940f7f5ae9c27287806",
+    "units": "Millimeters"
+  },
+  "originalBounds": {
+    "min": [
+      1259728.7007028197,
+      230214.3382155517,
+      -9000
+    ],
+    "max": [
+      1465003.6334932875,
+      465014.5193429002,
+      107400.00000005758
+    ]
+  },
+  "renderBounds": {
+    "min": [
+      -0.8742537241874319,
+      -0.9999999999999998,
+      -0.49574067379839776
+    ],
+    "max": [
+      0.8742537241874299,
+      1.0000000000000002,
+      0.49574067379839776
+    ]
+  },
+  "normalization": {
+    "center": [
+      1362366.1670980537,
+      347614.4287792259,
+      49200.00000002879
+    ],
+    "scale": 0.000008517880993095404,
+    "upAxis": "z"
+  },
+  "sampling": {
+    "total": 500000,
+    "surface": 350000,
+    "edge": 150000,
+    "seed": 220290,
+    "rawFormat": "f32x3-u8-kind-u8-seed-pad16"
+  },
+  "lods": [
+    {
+      "id": "low",
+      "url": "points-low.bin",
+      "pointCount": 60000,
+      "byteLength": 480000,
+      "sha256": "c343f9b98284b3df9bcc4c2deaa084e4cb6dd0f71c65d13dc30b61cf47891aac"
+    },
+    {
+      "id": "medium",
+      "url": "points-medium.bin",
+      "pointCount": 180000,
+      "byteLength": 1440000,
+      "sha256": "10a1cb679f4864da646dfa986db2c9496f3869e74c2a10c4dd094e757e8bc38f"
+    },
+    {
+      "id": "high",
+      "url": "points-high.bin",
+      "pointCount": 500000,
+      "byteLength": 4000000,
+      "sha256": "fdf4781e19e6f9edb80febf0bc0d074de3e32a88127ef568df77a52078b03821"
+    }
+  ]
+}
