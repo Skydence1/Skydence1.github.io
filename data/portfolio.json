@@ -854,6 +854,71 @@
         },
         "cover": "/media/knowledge/re4-village.webp",
         "url": "https://www.bilibili.com/video/BV1S6JDzdEi5/"
+      },
+      {
+        "id": "guidance-sightlines",
+        "title": {
+          "zh": "不靠箭头：用视线与地标引导玩家",
+          "en": "Guidance Without Arrows: Sightlines and Landmarks"
+        },
+        "summary": {
+          "zh": "用视线、构图与地标完成自然引导",
+          "en": "Natural guidance through sightlines, framing, and landmarks"
+        },
+        "cover": "/media/knowledge/guidance-sightlines.webp",
+        "url": ""
+      },
+      {
+        "id": "encounter-pacing",
+        "title": {
+          "zh": "遭遇战节奏：空间的收与放",
+          "en": "Encounter Pacing: Compression and Release"
+        },
+        "summary": {
+          "zh": "用空间收放组织战斗强度与呼吸",
+          "en": "Shape combat intensity and recovery through spatial rhythm"
+        },
+        "cover": "/media/knowledge/encounter-pacing.webp",
+        "url": ""
+      },
+      {
+        "id": "loop-shortcuts",
+        "title": {
+          "zh": "环路与捷径：让重访产生价值",
+          "en": "Loops and Shortcuts: Designing Valuable Return Paths"
+        },
+        "summary": {
+          "zh": "用环路、门槛与捷径重构玩家认知",
+          "en": "Reshape player understanding with loops, gates, and shortcuts"
+        },
+        "cover": "/media/knowledge/loop-shortcuts.webp",
+        "url": ""
+      },
+      {
+        "id": "verticality-traversal",
+        "title": {
+          "zh": "高差设计：编排跨层探索",
+          "en": "Verticality: Layering Traversal and Exploration"
+        },
+        "summary": {
+          "zh": "用坡道、楼梯与跨层视野组织动线",
+          "en": "Organize routes with ramps, stairs, and layered sightlines"
+        },
+        "cover": "/media/knowledge/verticality-traversal.webp",
+        "url": ""
+      },
+      {
+        "id": "risk-reward-exploration",
+        "title": {
+          "zh": "风险与奖励：支路为什么值得探索",
+          "en": "Risk and Reward: Making Optional Routes Matter"
+        },
+        "summary": {
+          "zh": "平衡主路、危险支路、代价与回报",
+          "en": "Balance the main route, hazardous branches, cost, and reward"
+        },
+        "cover": "/media/knowledge/risk-reward-exploration.webp",
+        "url": ""
       }
     ]
   },
