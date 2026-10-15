@@ -1,6 +1,28 @@
 {
   "projects": [
     {
+      "slug": "aveline",
+      "category": "game",
+      "status": "ready",
+      "year": "",
+      "title": {
+        "zh": "Aveline 无重力结界",
+        "en": "Aveline · Zero-Gravity Realm"
+      },
+      "role": {
+        "zh": "关卡规划、白盒与玩家引导",
+        "en": "Level planning, blockout and player guidance"
+      },
+      "summary": {
+        "zh": "围绕重力变化组织立体空间、玩家引导与回环的关卡设计案例。",
+        "en": "A level-design study of spatial organization, guidance and revisits under changing gravity."
+      },
+      "tools": [
+        "Unreal Engine"
+      ],
+      "cover": "/media/games/Aveline%E6%97%A0%E9%87%8D%E5%8A%9B%E7%BB%93%E7%95%8C/03_Heroshot.webp"
+    },
+    {
       "slug": "shenzhen-construction-industry-ecological-intelligent-valley",
       "year": "2023—2024",
       "title": {
