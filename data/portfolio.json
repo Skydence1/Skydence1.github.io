@@ -1042,6 +1042,44 @@
     "projects": [
       {
         "title": {
+          "zh": "3D重力解谜ARPG《核心回响》 | UE5",
+          "en": "3D Gravity Puzzle ARPG \"EchoCore\" | UE5"
+        },
+        "context": {
+          "zh": "基于UE5开发的第三人称箱庭关卡项目，以重力换面驱动探索、解谜与战斗，负责关卡规划、白盒搭建、机制设计及团队协作推进。项目成果：2026 清华x米哈游空间交互竞赛预赛参赛。",
+          "en": "A third-person sandbox level project developed in UE5, using gravity shifts to drive exploration, puzzles, and combat; responsible for level planning, blockout construction, mechanic design, and team coordination. Result: participant in the 2026 Tsinghua x miHoYo Spatial Interaction Competition preliminary round."
+        },
+        "role": {
+          "zh": "关卡策划",
+          "en": "Level Designer"
+        },
+        "period": "2026",
+        "link": "",
+        "bullets": [
+          {
+            "zh": "关卡空间搭建：从平面草图推导10个区域的三维白盒，以中央巨构串联线性推进与多层回环，组织大厅首访、二层重访及取晶回返的空间关系。",
+            "en": "Level space construction: derived 3D blockouts for ten areas from plan sketches, using a central megastructure to connect linear progression and multi-level loops across the first lobby visit, second-floor revisit, and crystal retrieval return."
+          },
+          {
+            "zh": "玩法与节奏设计：围绕重力滑坡、局部重力场与扶风信标编排机制教学、解谜和战斗，形成单机制学习到组合应用的递进流程。",
+            "en": "Gameplay and pacing: structured mechanic teaching, puzzles, and combat around gravity slides, local gravity fields, and wind-guiding beacons, progressing from single-mechanic learning to combined application."
+          },
+          {
+            "zh": "动线与视觉引导：利用门洞框景、远景地标、垂直落差及重复构件建立方向线索，设计换面前后的目标揭示与空间再识别。",
+            "en": "Traversal and visual guidance: established directional cues with framed openings, distant landmarks, vertical drops, and repeated elements, revealing goals and supporting spatial reorientation before and after gravity shifts."
+          },
+          {
+            "zh": "原型与迭代：使用UE5及Codex辅助落地交互原型与脚本事件，依据试玩反馈调整教学、通路、触发时机和相机表现。",
+            "en": "Prototyping and iteration: used UE5 and Codex to implement interaction prototypes and scripted events, then adjusted teaching, routes, trigger timing, and camera behavior from playtest feedback."
+          },
+          {
+            "zh": "协作与交付：对接5位场景地编，拆分区域与美术需求，使用Git/LFS管理协作版本，整理关卡设计文档与实机演示。",
+            "en": "Collaboration and delivery: coordinated with five environment level artists, divided area and art requirements, managed collaborative versions with Git/LFS, and prepared level design documentation and an in-game demonstration."
+          }
+        ]
+      },
+      {
+        "title": {
           "zh": "3D 类箱庭解密 RPG《游光》",
           "en": "3D Sandbox Puzzle RPG \"Youguang\""
         },
