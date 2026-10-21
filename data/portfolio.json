@@ -6,8 +6,8 @@
       "status": "ready",
       "year": "",
       "title": {
-        "zh": "Aveline 无重力结界",
-        "en": "Aveline · Zero-Gravity Realm"
+        "zh": "控制核心",
+        "en": "Echocore"
       },
       "role": {
         "zh": "关卡规划、白盒与玩家引导",
@@ -20,7 +20,7 @@
       "tools": [
         "Unreal Engine"
       ],
-      "cover": "/media/games/Aveline%E6%97%A0%E9%87%8D%E5%8A%9B%E7%BB%93%E7%95%8C/03_Heroshot.webp"
+      "cover": "/media/games/Aveline%E6%97%A0%E9%87%8D%E5%8A%9B%E7%BB%93%E7%95%8C/content-20261021/home-cover.webp"
     },
     {
       "slug": "shenzhen-construction-industry-ecological-intelligent-valley",
