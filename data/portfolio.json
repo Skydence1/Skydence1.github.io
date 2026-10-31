@@ -952,8 +952,8 @@
       "en": "Level Designer"
     },
     "summary": {
-      "zh": "建筑学背景转关卡策划，具备箱庭/区域关卡的空间组织、平面推演与场景白盒搭建能力。参与多项 Game Jam 项目的核心玩法构建、关卡流程设计与白盒验证，关注探索、解谜、叙事驱动与生活模拟类游戏中的空间体验、POI 布置、探索动线与玩家节奏设计。能够从玩法目标拆解到关卡流程、空间布局与交互节点设计，并与程序、美术协作推进内容落地。熟悉使用 Codex 辅助编程解决 UE5 工程难题，利用 ComfyUI 控制生成游戏美术资产。",
-      "en": "With an architectural background and a focus on level design, I work across spatial organization, plan-based reasoning, and scene blockouts for sandbox and area-based levels. I have contributed to the core gameplay, level flow, and blockout validation of several Game Jam projects, with a focus on exploration, puzzles, narrative-driven play, life simulation, POI placement, traversal, and player pacing. I move from gameplay goals to level flows, spatial layouts, and interaction nodes, then work with programmers and artists to bring the design into production. I also use Codex to solve UE5 engineering problems and ComfyUI to control the generation of game art assets."
+      "zh": "建筑学硕士，具备空间规划、关卡设计与视觉表达基础。拥有 UE5 箱庭关卡 Demo 及六款 Game Jam 项目实践，负责过关卡白盒、近远程敌人行为规则、遭遇配置与原型验证；围绕敌人 AI 设计，参与蓝图与 C++ 实现，结合 AI 辅助推进原型迭代，协同程序、美术完成设计落地。业余时间 Coser，喜欢 ACG 文化，在 ACG 乐队中担任键盘手，有丰富 Live 演出经验。",
+      "en": "Master of Architecture with a foundation in spatial planning, level design, and visual communication. I have built UE5 sandbox levels and contributed to six Game Jam projects, covering blockouts, melee and ranged enemy behavior rules, encounter configuration, and prototype validation. I work on enemy AI with Blueprints and C++, use AI to accelerate iteration, and collaborate with programmers and artists to bring designs into production. Outside work, I enjoy cosplay and ACG culture, and perform as a keyboardist in an ACG band."
     },
     "education": [
       {
@@ -997,23 +997,23 @@
           "zh": "建筑 AI 设计师",
           "en": "Architectural AI Designer"
         },
-        "period": "2023.7 - 现今",
+        "period": "2023.07 - 2026.07",
         "bullets": [
           {
-            "zh": "参与概念方案推演与空间结构验证，能够快速从平面关系推导三维空间布局。",
-            "en": "Contributed to concept development and spatial-structure validation, quickly translating plan relationships into three-dimensional layouts."
+            "zh": "参与 10+ 建筑设计投标项目，统一项目投标文本、展板与多媒体内容的视觉风格表达，累计推动 4 个项目中标。",
+            "en": "Contributed to 10+ architectural design bids, unifying the visual language of bid documents, boards, and multimedia content; helped drive four projects to win."
           },
           {
-            "zh": "调研用户类型，通过白盒设计优化空间构造，服务于客户心流体验；基于平剖面推演，使用 Grasshopper 与 Rhino 完成参数化建模及后期渲染表达，准确传达空间细节与设计巧思。",
-            "en": "Researched user types and used blockout design to refine spatial structures for client flow; developed parametric models and rendered design studies with Grasshopper and Rhino to communicate spatial detail and intent."
+            "zh": "将 Stable Diffusion、ComfyUI 等 AI 工作流融入概念方案与意向表达，前期视觉产出效率提升 80% 以上，并提升跨部门沟通效率。",
+            "en": "Integrated Stable Diffusion, ComfyUI, and related AI workflows into concept development and intent communication, improving early-stage visual output efficiency by over 80% and streamlining cross-team communication."
           },
           {
-            "zh": "作为 AI 研究员，将 Stable Diffusion 工作流融入工作，提高前期意向表达图产出效率 80%+，在保持图面质量的同时快速传达模型细节，加快跨部门沟通协作。",
-            "en": "As an AI researcher, integrated Stable Diffusion workflows into early-stage design, improving the output efficiency of intent images by 80%+ while communicating model detail faster across teams."
+            "zh": "参与概念方案推演与三维空间验证，能够从平面关系快速转化为空间布局、视觉方案与沉浸式场景表达。",
+            "en": "Contributed to concept development and 3D spatial validation, translating plan relationships into spatial layouts, visual studies, and immersive scene expressions."
           },
           {
-            "zh": "构建建造规范 Agent 智能体，利用 RAG 技术融合业务所在城市的建筑设计规范文本，辅助项目落地设计师检索当地设计规章制度。",
-            "en": "Built a construction-regulation Agent using RAG to combine local architectural code text and support designers in retrieving relevant regulations during project delivery."
+            "zh": "与建筑效果图团队协作，输出视觉参考并沟通镜头、材质等关键要求，保障渲染成果与项目创意方向一致。",
+            "en": "Worked with architectural visualization teams on visual references, camera direction, and material requirements to keep rendered results aligned with the project's creative direction."
           }
         ]
       },
@@ -1026,15 +1026,15 @@
           "zh": "建筑设计师",
           "en": "Architectural Designer"
         },
-        "period": "2023.3 - 7",
+        "period": "2023.03 - 07",
         "bullets": [
           {
-            "zh": "在多版本方案迭代中培养了围绕目标行为组织动线、节点与体验节奏的能力；在一周内创作出 10 余种比选方案，供团队讨论选择最终深化方案。",
-            "en": "Developed the ability to organize circulation, nodes, and experiential rhythm around target behaviors through multi-version iteration; produced more than ten options in one week for the team to compare and select for further development."
+            "zh": "围绕场地条件与使用需求进行体块和空间方案推敲，产出 10 余种比选方案供团队讨论，支持后续深化方向选择。",
+            "en": "Developed massing and spatial options around site conditions and user needs, producing more than ten alternatives for team discussion and downstream design development."
           },
           {
-            "zh": "熟悉 Rhino、Grasshopper 等工具，可高效完成空间结构表达与方案验证。",
-            "en": "Used Rhino, Grasshopper, and related tools to efficiently express spatial structures and validate design options."
+            "zh": "参与建筑概念方案、平剖面设计与三维模型验证，使用 Rhino、Grasshopper 推敲体块、尺度和空间布局，支持团队评审、跨专业沟通及设计深化。",
+            "en": "Contributed to architectural concepts, plans, sections, and 3D model validation; used Rhino and Grasshopper to study massing, scale, and spatial layout for reviews, cross-discipline communication, and design development."
           }
         ]
       }
@@ -1042,137 +1042,171 @@
     "projects": [
       {
         "title": {
-          "zh": "3D重力解谜ARPG《核心回响》 | UE5",
-          "en": "3D Gravity Puzzle ARPG \"EchoCore\" | UE5"
+          "zh": "《核心回响》 | 半线性箱庭重力解谜",
+          "en": "\"EchoCore\" | Semi-linear Sandbox Gravity Puzzle"
         },
         "context": {
-          "zh": "基于UE5开发的第三人称箱庭关卡项目，以重力换面驱动探索、解谜与战斗，负责关卡规划、白盒搭建、机制设计及团队协作推进。项目成果：2026 清华x米哈游空间交互竞赛预赛参赛。",
-          "en": "A third-person sandbox level project developed in UE5, using gravity shifts to drive exploration, puzzles, and combat; responsible for level planning, blockout construction, mechanic design, and team coordination. Result: participant in the 2026 Tsinghua x miHoYo Spatial Interaction Competition preliminary round."
+          "zh": "3D 半线性开放 / 解谜 / 战斗。基于 UE5 开发第三人称半线性箱庭，以空间探索与重力解谜为核心体验，穿插战斗。",
+          "en": "3D semi-linear open exploration / puzzle / combat. A third-person semi-linear sandbox built in UE5, centered on spatial exploration and gravity puzzles with combat woven into the experience."
         },
         "role": {
-          "zh": "关卡策划",
-          "en": "Level Designer"
+          "zh": "关卡策划兼程序开发",
+          "en": "Level Designer & Gameplay Programmer"
         },
-        "period": "2026",
-        "link": "",
+        "period": "2026.08 - 10",
+        "link": "https://www.bilibili.com/video/BV1Winc6FENN",
         "bullets": [
           {
-            "zh": "关卡空间搭建：从平面草图推导10个区域的三维白盒，以中央巨构串联线性推进与多层回环，组织大厅首访、二层重访及取晶回返的空间关系。",
-            "en": "Level space construction: derived 3D blockouts for ten areas from plan sketches, using a central megastructure to connect linear progression and multi-level loops across the first lobby visit, second-floor revisit, and crystal retrieval return."
+            "zh": "负责箱庭关卡整体体验流程、玩法与交互物件落地，参与蓝图与 C++ 实现，结合 AI 辅助推进原型迭代。",
+            "en": "Owned the sandbox level flow, gameplay, and interactive objects, contributing to Blueprint and C++ implementation and using AI to accelerate prototype iteration."
           },
           {
-            "zh": "玩法与节奏设计：围绕重力滑坡、局部重力场与扶风信标编排机制教学、解谜和战斗，形成单机制学习到组合应用的递进流程。",
-            "en": "Gameplay and pacing: structured mechanic teaching, puzzles, and combat around gravity slides, local gravity fields, and wind-guiding beacons, progressing from single-mechanic learning to combined application."
+            "zh": "围绕追击、朝向防御和远程压制划分敌人职责，以蓝图模板与 C++ 行为组件状态机承载决策，设计攻击条件、恢复窗口及玩家反制。",
+            "en": "Defined enemy roles around pursuit, directional defense, and ranged suppression, using Blueprint templates and a C++ behavior-component state machine to structure decisions, attack conditions, recovery windows, and player counterplay."
           },
           {
-            "zh": "动线与视觉引导：利用门洞框景、远景地标、垂直落差及重复构件建立方向线索，设计换面前后的目标揭示与空间再识别。",
-            "en": "Traversal and visual guidance: established directional cues with framed openings, distant landmarks, vertical drops, and repeated elements, revealing goals and supporting spatial reorientation before and after gravity shifts."
+            "zh": "规划十个区域与多层回环路径，设计三类重力机制，从单机制教学递进到组合解谜。",
+            "en": "Planned ten areas with multi-level loops and designed three gravity mechanics that progress from single-mechanic teaching to combined puzzles."
           },
           {
-            "zh": "原型与迭代：使用UE5及Codex辅助落地交互原型与脚本事件，依据试玩反馈调整教学、通路、触发时机和相机表现。",
-            "en": "Prototyping and iteration: used UE5 and Codex to implement interaction prototypes and scripted events, then adjusted teaching, routes, trigger timing, and camera behavior from playtest feedback."
+            "zh": "制作关卡平面图、精细白盒与 Sequencer 过场，交付可运行 Demo、设计文档与实机演示。",
+            "en": "Produced level plans, detailed blockouts, and Sequencer cinematics; delivered a playable demo, design documentation, and an in-game presentation."
           },
           {
-            "zh": "协作与交付：对接5位场景地编，拆分区域与美术需求，使用Git/LFS管理协作版本，整理关卡设计文档与实机演示。",
-            "en": "Collaboration and delivery: coordinated with five environment level artists, divided area and art requirements, managed collaborative versions with Git/LFS, and prepared level design documentation and an in-game demonstration."
+            "zh": "项目参加 2026 清华 x 米哈游空间交互竞赛预赛。",
+            "en": "The project entered the 2026 Tsinghua x miHoYo Spatial Interaction Competition preliminary round."
           }
         ]
       },
       {
         "title": {
-          "zh": "3D 类箱庭解密 RPG《游光》",
-          "en": "3D Sandbox Puzzle RPG \"Youguang\""
+          "zh": "《月亮 The Moon》 | 复古科幻 FPS",
+          "en": "\"The Moon\" | Retro Sci-Fi FPS"
         },
         "context": {
-          "zh": "TAPTAP GAMEJAM 2025 · Godot 开发",
-          "en": "TAPTAP GAMEJAM 2025 · Developed in Godot"
+          "zh": "3D 半线性开放 / FPS 射击",
+          "en": "3D semi-linear open exploration / FPS shooting"
         },
         "role": {
           "zh": "关卡策划",
           "en": "Level Designer"
         },
-        "period": "2024.9 - 10",
-        "link": "https://www.taptap.cn/app/724912?os=pc",
+        "period": "2026.05 - 07",
+        "link": "https://www.gcores.com/games/180002",
         "bullets": [
           {
-            "zh": "围绕角色机制与剧情目标，梳理角色与场景的交互规则，搭建关卡核心体验框架。",
-            "en": "Mapped character-scene interaction rules around character mechanics and narrative goals to establish the core level-experience framework."
+            "zh": "基于 Godot 开发半线性复古科幻 FPS，以高速移动中的战斗、生存与突围为核心体验；玩家可投掷飞刀并传送至落点，同时应对靠近后会隐身的敌人。",
+            "en": "Designed a semi-linear retro sci-fi FPS in Godot around fast-moving combat, survival, and escape; players throw knives to teleport while responding to enemies that turn invisible at close range."
           },
           {
-            "zh": "调研相关类型游戏，确认剧情大纲与关卡结合的叙事逻辑，根据角色机制设计角色与世界的交互规则。",
-            "en": "Researched related genres, defined the narrative logic connecting the story outline and level, and designed character-world interactions around the character mechanics."
+            "zh": "负责关卡策划，以及近战、远程怪物的行为 AI 设计、原型验证与玩法配置。",
+            "en": "Owned level design, behavior AI design for melee and ranged enemies, prototype validation, and gameplay configuration."
           },
           {
-            "zh": "设计关卡流程与空间布局，将探索、解谜与叙事节点整合到统一的关卡推进中；基于关卡流程进行平面布局推导与空间白盒搭建，关注区域结构、兴趣点布置与探索路径设计。",
-            "en": "Designed level flow and spatial layout, combining exploration, puzzles, and narrative beats in one progression; derived plans and built spatial blockouts from the flow, with attention to area structure, POI placement, and traversal routes."
+            "zh": "使用 TrenchBroom 搭建关卡白盒，将飞刀落点、探索路径与战斗位置结合，让移动位置直接服务于战斗决策。",
+            "en": "Built the level blockout in TrenchBroom, connecting knife landing points, exploration routes, and combat positions so movement choices directly support combat decisions."
+          },
+          {
+            "zh": "结合近战、远程敌人的行为差异与隐形敌人规则，组织威胁辨认、交战与转移的节奏；项目进入最终展出版本。",
+            "en": "Structured the rhythm of threat recognition, engagement, and repositioning around melee/ranged behavior differences and invisible-enemy rules; the level and monster design reached the final exhibition build."
           }
         ]
       },
       {
         "title": {
-          "zh": "解密逃生类《后室挖宝》",
-          "en": "Puzzle Escape Game \"Backroom Treasure Hunt\""
+          "zh": "《游光》 | 箱庭解谜 RPG",
+          "en": "\"Youguang\" | Sandbox Puzzle RPG"
         },
         "context": {
-          "zh": "GGJ 2026 深圳站点 · 48 小时 Unity 项目",
-          "en": "GGJ 2026 Shenzhen site · 48-hour Unity project"
+          "zh": "3D 半线性开放 / 解谜 / 探索",
+          "en": "3D semi-linear open exploration / puzzle"
         },
         "role": {
           "zh": "关卡策划",
           "en": "Level Designer"
         },
-        "period": "2026.2",
+        "period": "2025.03 - 04",
+        "link": "https://www.taptap.cn/app/724912",
+        "bullets": [
+          {
+            "zh": "基于 Godot 开发 3D 箱庭探索游戏，以灯光解谜为核心体验；主流程线性推进，局部设置隐藏分支与支线奖励。",
+            "en": "Developed a 3D sandbox exploration game in Godot around light-based puzzles, with a linear main flow and hidden branches with side rewards."
+          },
+          {
+            "zh": "负责箱庭关卡整体体验流程与空间设计，在统一通关目标下提供多条探索路径。",
+            "en": "Owned the sandbox level flow and spatial design, providing multiple exploration routes toward one clear completion goal."
+          },
+          {
+            "zh": "通过灯光谜题、隐藏分支与奖励布局，让玩家在推进主线和绕行探索之间取舍；项目参与 TapTap Game Jam 2025 并在 TapTap 展示。",
+            "en": "Used light puzzles, hidden branches, and reward placement to create trade-offs between mainline progress and detours; entered TapTap Game Jam 2025 and was showcased on TapTap."
+          }
+        ]
+      },
+      {
+        "title": {
+          "zh": "《后室挖宝》 | 探索扫雷游戏",
+          "en": "\"Backroom Treasure Hunt\" | Exploration Minesweeper"
+        },
+        "context": {
+          "zh": "2D 解谜 / 探索",
+          "en": "2D puzzle / exploration"
+        },
+        "role": {
+          "zh": "关卡策划兼 UI 美术",
+          "en": "Level Designer & UI Artist"
+        },
+        "period": "2026.02",
         "link": "https://globalgamejam.org/games/2026/treasure-hunting-backroom-houshiwabao-6",
         "bullets": [
           {
-            "zh": "搭建关卡白盒，组织玩家在有限信息环境下完成探索、判断与风险规避。",
-            "en": "Built the level blockout to organize exploration, judgment, and risk avoidance under limited information."
+            "zh": "基于 Unity 开发融合扫雷判断与宝藏探索的 2D 解谜游戏，以线索推理和风险取舍为核心体验。",
+            "en": "Built a 2D puzzle game in Unity combining Minesweeper-like judgment with treasure exploration, centered on clue reasoning and risk trade-offs."
           },
           {
-            "zh": "根据“后室探索 + 扫雷式信息判断”的体验方向，设计关卡流程与空间推进逻辑。",
-            "en": "Designed level flow and spatial progression around a backroom exploration experience with Minesweeper-like information judgment."
+            "zh": "在 48 小时 Game Jam 中负责关卡设计、玩法配置及 UI 美术，完成由易到难的 5 张递进关卡。",
+            "en": "Handled level design, gameplay configuration, and UI art in a 48-hour Game Jam, delivering five progressively difficult levels."
           },
           {
-            "zh": "负责项目进度管理及产品宣发，统一项目整体风格表达。",
-            "en": "Managed project progress and product promotion while keeping the overall visual direction coherent."
+            "zh": "与团队完成 GGJ 2026 深圳站参赛作品，并在 Global Game Jam 展示。",
+            "en": "Completed the GGJ 2026 Shenzhen entry with the team and showcased it on Global Game Jam."
           }
         ]
       },
       {
         "title": {
-          "zh": "AI 实时驱动类文字冒险 RPG《末位淘汰的七日默示录》",
-          "en": "AI-Driven Text Adventure RPG \"Seven-Day Apocalypse\""
+          "zh": "《末位淘汰的七日默示录》 | AI 文字冒险 RPG",
+          "en": "\"Seven-Day Apocalypse\" | AI Text Adventure RPG"
         },
         "context": {
-          "zh": "机核 BOOOMJAM 2025 · Unity 开发",
-          "en": "Gcores BOOOMJAM 2025 · Developed in Unity"
+          "zh": "2D AVG",
+          "en": "2D AVG"
         },
         "role": {
-          "zh": "玩法策划 & AIGC 设计",
-          "en": "Gameplay Designer & AIGC Designer"
+          "zh": "玩法策划",
+          "en": "Gameplay Designer"
         },
-        "period": "2025.5 - 6",
+        "period": "2025.03 - 05",
         "link": "https://www.gcores.com/games/148146",
         "bullets": [
           {
-            "zh": "搭建 ComfyUI 工作流，根据玩家选择导向的 MBTI 性格类型，基于 SDXL、IP-Adapter、RMBG 等技术实现玩家角色头像实时生成。",
-            "en": "Built a ComfyUI workflow that generates player avatars in real time from the MBTI personality type implied by player choices, using SDXL, IP-Adapter, RMBG, and related techniques."
+            "zh": "基于 Unity 开发 AI 实时生成角色回复的 2D 文字冒险游戏，以 NPC 互动与多结局故事为核心体验。",
+            "en": "Developed a 2D text adventure in Unity with AI-generated character replies, centered on NPC interaction and branching endings."
           },
           {
-            "zh": "参与制定核心游戏流程、NPC 系统及性格设定、玩家状态（工作、假期、资金等）与随机事件，实现游戏资源和需求的功能平衡，输出设计案交付程序。",
-            "en": "Helped define the core game flow, NPC system and personalities, player states such as work, holidays, and funds, and random events; balanced resource and need systems and delivered design briefs to engineering."
+            "zh": "负责 NPC 性格与对话风格设计，参与角色美术及界面交互设计，让角色差异体现在交流与视觉表现中。",
+            "en": "Designed NPC personalities and dialogue styles, contributing to character art and interface interaction so character differences appear in both conversation and visuals."
           },
           {
-            "zh": "根据 NPC 性格设定编写结构化 JSON 内容，对接程序并辅助实现 AI NPC 性格与外观生成逻辑。",
-            "en": "Authored structured JSON content from NPC personality definitions and supported engineering in implementing AI NPC personality and appearance generation."
+            "zh": "将多位 NPC 的性格、语言风格整理为 JSON，交付程序接入 DeepSeek，作为角色实时回应玩家的依据。",
+            "en": "Structured NPC personalities and language styles as JSON for engineering integration with DeepSeek as the basis for real-time responses."
           },
           {
-            "zh": "利用 Figma 及 Axure 设计游戏 UI，制定玩家 UI 交互方式，通过试玩反馈持续改进界面体验。",
-            "en": "Designed the game UI in Figma and Axure, defined player interaction patterns, and iterated on the interface through playtest feedback."
+            "zh": "搭建根据玩家选择及 MBTI 性格生成头像的 ComfyUI 工作流 SOP，制作角色原画与界面交互原型。",
+            "en": "Created a ComfyUI workflow SOP for avatar generation from player choices and MBTI traits, along with character art and interaction prototypes."
           },
           {
-            "zh": "编写设计需求文档，将 ComfyUI 工作流逻辑及 MBTI 计算方式对接程序，并与美术对接需求风格。",
-            "en": "Wrote design requirement documents, connected the ComfyUI workflow and MBTI calculation to engineering, and aligned the requested visual direction with art."
+            "zh": "交付 NPC 配置、角色生成 SOP 及交互原型；项目参与机核 BOOOM Game Jam 2025，并在机核展示。",
+            "en": "Delivered NPC configuration, a character-generation SOP, and an interaction prototype; entered BOOOM Game Jam 2025 and was showcased on Gcores."
           }
         ]
       }
